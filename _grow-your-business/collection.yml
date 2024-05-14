@@ -2,4 +2,5 @@ collections:
   grow-your-business:
     output: true
     order:
+      - Boost capabilities/Overview.md
       - Boost capabilities/.keep
