@@ -7,4 +7,6 @@ links:
   - title: Example Page
     url: /example-page/
   - title: Example Folder
-    collection: example-folder
+    collection: young-talent
+  - title: New folder
+    collection: about-jinhui
