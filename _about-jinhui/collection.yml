@@ -1,4 +1,5 @@
 collections:
   about-jinhui:
     output: true
-    order: []
+    order:
+      - about me.md
