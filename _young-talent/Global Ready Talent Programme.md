@@ -4,3 +4,11 @@ permalink: /global-ready-talent-programme/
 variant: tiptap
 description: Global Ready Talent progrmme (GRT) is an internship programme..
 ---
+<h2>Local Internship</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/isomer-logo.svg">
+</div>
+<p></p>
+<h3>Overseas Internship</h3>
+<p></p>
