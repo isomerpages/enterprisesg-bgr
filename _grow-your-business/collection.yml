@@ -1,4 +1,5 @@
 collections:
   grow-your-business:
     output: true
-    order: []
+    order:
+      - Boost capabilities/.keep
