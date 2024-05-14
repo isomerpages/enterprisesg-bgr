@@ -1,0 +1,4 @@
+collections:
+  about-programme:
+    output: true
+    order: []
