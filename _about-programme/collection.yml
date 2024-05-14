@@ -1,5 +1,4 @@
 collections:
   about-programme:
     output: true
-    order:
-      - Internship.md
+    order: []
