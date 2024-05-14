@@ -8,5 +8,7 @@ links:
     url: /example-page/
   - title: Example Folder
     collection: young-talent
-  - title: "About "
+  - title: About
     collection: about-jinhui
+  - title: Young Talent
+    collection: young-talent
