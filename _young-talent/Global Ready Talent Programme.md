@@ -11,4 +11,4 @@ description: Global Ready Talent progrmme (GRT) is an internship programme..
 </div>
 <p></p>
 <h3>Overseas Internship</h3>
-<p></p>
+<p>Overseas internship support students with overseas allowance</p>
