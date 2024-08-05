@@ -8,7 +8,7 @@ links:
     collection: testimonials
   - title: Good Company Reports
     collection: good-company-report
-  - title: Contact Us
-    url: /contact-us/
   - title: Overseas Resources
     url: /permalink
+  - title: Contact Us
+    url: /contact-us/
