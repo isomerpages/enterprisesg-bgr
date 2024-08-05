@@ -1,5 +1,5 @@
 collections:
-  in-singapore-enterprises:
+  example:
     output: true
     order:
       - folder-page.md
