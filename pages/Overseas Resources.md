@@ -33,12 +33,23 @@ supply chain hub offers extensive opportunities to launch a regional career.</di
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Southeast Asia" src="/images/SEA.png">
+</div>
+<p>Southeast Asia</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/China.png">
+</div>
+<p>China</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/India.png">
+</div>
+<p>India</p>
 </th>
 </tr>
 <tr>
