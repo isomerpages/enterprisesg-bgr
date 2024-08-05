@@ -2,7 +2,6 @@ collections:
   internship-programme:
     output: true
     order:
-      - Ongoing Global Programmes/.keep
       - Ongoing Global Programmes.md
       - Global Internships.md
       - folder-page.md
