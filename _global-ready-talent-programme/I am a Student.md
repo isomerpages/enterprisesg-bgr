@@ -6,7 +6,7 @@ description: ""
 ---
 <h2>I am a Student</h2>
 <p>This programme is open to full-time tertiary students from eligible institutions.</p>
-<p>To qualify for the programme, you must be a <strong>Singaporean or Singapore Permanent Resident who is (i) a full-time student pursuing an undergraduate degree or diploma from any of the following eligible institutions below; OR (ii)a full-time NITEC/Higher NITEC student.:</strong>
+<p>To qualify for the programme, you must be a <strong>Singaporean or Singapore Permanent Resident who is (i) a full-time student pursuing an undergraduate degree or diploma from any of the following eligible institutions below; OR (ii) a full-time NITEC/Higher NITEC student.:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
