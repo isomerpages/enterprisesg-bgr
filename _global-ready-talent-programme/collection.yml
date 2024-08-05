@@ -2,8 +2,8 @@ collections:
   global-ready-talent-programme:
     output: true
     order:
-      - I am a Company.md
       - Global Ready Talent Programme.md
       - I am a Student.md
-      - Boost capabilities/Overview.md
+      - I am a Company.md
       - Boost capabilities/.keep
+      - Boost capabilities/Overview.md
