@@ -125,7 +125,7 @@ programme:</p>
 </ul>
 <p></p>
 <p>For more information on ongoing global programmes available to you, click
-here. You may also speak to your respective Institutes of Higher Learning
+<a href="https://staging.d8cu29s1ycaje.amplifyapp.com/ongoing-global-programmes/" rel="noopener noreferrer nofollow" target="_blank">here</a>. You may also speak to your respective Institutes of Higher Learning
 on your eligibility for funding support under GRT.</p>
 <p>As always, we encourage students to do their due diligence before embarking
 on internships.</p>
