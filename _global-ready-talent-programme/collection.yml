@@ -2,5 +2,6 @@ collections:
   global-ready-talent-programme:
     output: true
     order:
+      - I am a student.md
       - Boost capabilities/Overview.md
       - Boost capabilities/.keep
