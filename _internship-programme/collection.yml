@@ -2,7 +2,7 @@ collections:
   internship-programme:
     output: true
     order:
-      - Internship Process.md
       - Internship Programme.md
-      - Ongoing Global Programmes.md
       - Global Internships.md
+      - Ongoing Global Programmes.md
+      - Internship Process.md
