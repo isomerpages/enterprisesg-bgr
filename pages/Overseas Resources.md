@@ -4,8 +4,8 @@ permalink: /overseas-resources/
 variant: tiptap
 description: ""
 ---
-<p>Get a glimpse of what different regions have to offer down below or
-<a href="https://staging.d8cu29s1ycaje.amplifyapp.com/overseas/" rel="noopener noreferrer nofollow" target="_blank">click</a>to find out about the experiences of past interns.</p>
+<p>Get a glimpse of what different regions have to offer down below or click
+<a href="https://staging.d8cu29s1ycaje.amplifyapp.com/overseas/" rel="noopener noreferrer nofollow" target="_blank">here</a>to find out about the experiences of past interns.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SEA.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Southeast Asia</div><div class="isomer-card-description">Southeast Asia is a region of rapid urbanisation, unprecedented growth and thriving digital adoption – it provides young talent with diverse work opportunities to venture into new and booming sectors arising from digital transformation across various industries.</div><div class="isomer-card-link">Find out about the region and what you can expect here.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
