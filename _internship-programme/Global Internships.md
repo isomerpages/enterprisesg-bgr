@@ -114,7 +114,6 @@ programme:</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
 <p>As part of the overseas allowance, students will receive:</p>
 <ul data-tight="true" class="tight">
 <li>
