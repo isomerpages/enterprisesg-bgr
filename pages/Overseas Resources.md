@@ -10,7 +10,7 @@ here to find out about the experiences of past interns.</p>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/China.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -21,6 +21,6 @@ such as AI, e-commerce, and renewable energy, this manufacturing and global
 supply chain hub offers extensive opportunities to launch a regional career.</div>
 <div class="isomer-card-link">Find out more about China here.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">India</div><div class="isomer-card-description">India is one of the fastest-growing economies in the world. With rapid digitalisation and a burgeoning technology sector, there are massive opportunities especially in information technology industries to broaden your career horizon, and immerse yourself in the country’s rich culture and heritage.</div><div class="isomer-card-link">Find out more about India here.</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/India.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">India</div><div class="isomer-card-description">India is one of the fastest-growing economies in the world. With rapid digitalisation and a burgeoning technology sector, there are massive opportunities especially in information technology industries to broaden your career horizon, and immerse yourself in the country’s rich culture and heritage.</div><div class="isomer-card-link">Find out more about India here.</div></div></a>
 </div>
 <p></p>
