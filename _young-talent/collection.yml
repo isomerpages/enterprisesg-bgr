@@ -1,5 +1,4 @@
 collections:
   young-talent:
     output: true
-    order:
-      - Global Ready Talent Programme.md
+    order: []
