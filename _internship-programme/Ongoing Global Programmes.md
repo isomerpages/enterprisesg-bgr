@@ -10,13 +10,40 @@ being run.</p>
 <p>Please note that the list below is non-exhaustive, do contact your respective
 Institutes of Higher Learning for more information and the full range of
 opportunities available.</p>
-<p></p>
-<h4><strong>ITE Administered Programmes:</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>ITE Administered Programmes</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p>Overseas Industrial Attachment Programme (<a href="https://www.ite.edu.sg/who-we-are/global-partnerships/overseas-exposure" rel="noopener noreferrer nofollow" target="_blank">OIAP</a>)</p>
 </li>
 </ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Polytechnic Administered Programmes</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>University Administered Programmes</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Government Administered Programmes</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <h4><strong>Polytechnic Administered Programmes:</strong></h4>
 <p><strong>Ngee Ann Polytechnic</strong>
