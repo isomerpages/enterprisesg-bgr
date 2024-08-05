@@ -1,5 +1,5 @@
 collections:
-  i-am-a-student:
+  testimonials:
     output: true
     order:
       - about me.md
