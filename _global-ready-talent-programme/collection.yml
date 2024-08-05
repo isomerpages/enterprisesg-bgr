@@ -1,5 +1,5 @@
 collections:
-  global-internships:
+  global-ready-talent-programme:
     output: true
     order:
       - Boost capabilities/Overview.md
