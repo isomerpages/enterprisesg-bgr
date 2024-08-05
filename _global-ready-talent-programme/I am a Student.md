@@ -56,7 +56,7 @@ description: ""
 <p></p>
 </li>
 </ul>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="testimonials" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/hear.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hear what your peers have to say</div><div class="isomer-card-description">Kickstart your career and gain more work experience through local and overseas opportunities.</div><div class="isomer-card-link">Learn more here.</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging.d8cu29s1ycaje.amplifyapp.com/local/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/hear.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hear what your peers have to say</div><div class="isomer-card-description">Kickstart your career and gain more work experience through local and overseas opportunities.</div><div class="isomer-card-link">Learn more here.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://staging.d8cu29s1ycaje.amplifyapp.com/internship-programme/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
