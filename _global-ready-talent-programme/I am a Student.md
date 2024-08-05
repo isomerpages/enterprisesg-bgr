@@ -56,11 +56,11 @@ description: ""
 <p></p>
 </li>
 </ul>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hear what your peers have to say</div><div class="isomer-card-description">Kickstart your career and gain more work experience through local and overseas opportunities.</div><div class="isomer-card-link">Learn more here.</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/hear.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hear what your peers have to say</div><div class="isomer-card-description">Kickstart your career and gain more work experience through local and overseas opportunities.</div><div class="isomer-card-link">Learn more here.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/join.png">
 </div>
 </div>
 <div class="isomer-card-body">
