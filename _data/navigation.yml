@@ -1,14 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About Prog
+  - title: Global Ready Talent Programme
     collection: grow-your-business
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
+  - title: Internship Programme
     collection: young-talent
-  - title: About
+  - title: Testimonials
     collection: about-jinhui
-  - title: Resources
+  - title: Good Company Report
     collection: grow-your-business
+  - title: Overseas Resources
+    url: /contact-us/
