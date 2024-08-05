@@ -1,5 +1,5 @@
 collections:
-  about-programme:
+  i-am-a-company:
     output: true
     order:
       - Internship.md
