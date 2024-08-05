@@ -1,5 +1,5 @@
 collections:
-  about-jinhui:
+  i-am-a-student:
     output: true
     order:
       - about me.md
