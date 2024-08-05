@@ -4,6 +4,7 @@ permalink: /internship-process/
 variant: tiptap
 description: ""
 ---
+<h2>Internship Process</h2>
 <h4>Internship Eligibility</h4>
 <p>Here is the summary of internship types and support available under the
 Global Ready Talent Programme:</p>
