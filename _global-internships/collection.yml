@@ -1,5 +1,5 @@
 collections:
-  grow-your-business:
+  global-internships:
     output: true
     order:
       - Boost capabilities/Overview.md
