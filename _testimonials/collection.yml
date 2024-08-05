@@ -2,5 +2,6 @@ collections:
   testimonials:
     output: true
     order:
+      - Local.md
       - Overseas.md
       - about me.md
