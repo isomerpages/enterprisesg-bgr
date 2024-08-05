@@ -1,5 +1,5 @@
 collections:
-  i-am-a-company:
+  good-company-report:
     output: true
     order:
       - Internship.md
