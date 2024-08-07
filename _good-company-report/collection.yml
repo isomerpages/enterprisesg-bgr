@@ -1,5 +1,4 @@
 collections:
   good-company-report:
     output: true
-    order:
-      - Internship.md
+    order: []
