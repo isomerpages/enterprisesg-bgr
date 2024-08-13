@@ -2,14 +2,14 @@ collections:
   good-company-report:
     output: true
     order:
-      - Energy & Chemicals/Sing Fuels.md
-      - Energy & Chemicals/Maha Chemicals.md
-      - Energy & Chemicals/.keep
-      - Education/Training Vision Institute.md
-      - Education/.keep
+      - Good Company Report.md
+      - Advanced Manufacturing/.keep
+      - Advanced Manufacturing/Keystone Cable.md
       - Built Environment/.keep
       - Built Environment/Prime Structures Engineering.md
       - Built Environment/Meinhardt.md
-      - Good Company Report.md
-      - Advanced Manufacturing/Keystone Cable.md
-      - Advanced Manufacturing/.keep
+      - Education/.keep
+      - Education/Training Vision Institute.md
+      - Energy & Chemicals/.keep
+      - Energy & Chemicals/Sing Fuels.md
+      - Energy & Chemicals/Maha Chemicals.md
