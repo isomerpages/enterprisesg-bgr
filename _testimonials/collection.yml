@@ -1,6 +1,0 @@
-collections:
-  testimonials:
-    output: true
-    order:
-      - Local.md
-      - Overseas.md
