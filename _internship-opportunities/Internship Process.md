@@ -12,7 +12,7 @@ Global Ready Talent Programme:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_15_090732.png">
 </div>
-<h4>Application and Feedback Process</h4>
+<h4>Internship Process Flow</h4>
 <p>Here is the expected process flow for every internship. Do take note to
 abide by the timeframe.</p>
 <div class="isomer-image-wrapper">
@@ -24,3 +24,7 @@ link &lt;insert form SG link when ready&gt; as soon as the internship ends.</p>
 <p>Your respective institute may also require you to submit other deliverables
 e.g. an internship report. As such, be sure to check with your institute
 for the deliverables to be submitted.</p>
+<h4>To Apply</h4>
+<p>Approach the career centre of your institute of higher learning for internship
+job matching.</p>
+<p></p>
