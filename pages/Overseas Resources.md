@@ -4,6 +4,7 @@ permalink: /overseas-resources/
 variant: tiptap
 description: ""
 ---
+<p>Get a glimpse of what different regions have to offer down below.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.eyeonasia.gov.sg/asean-countries/know/overview-of-asean-countries/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SEA.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Southeast Asia</div><div class="isomer-card-description">Southeast Asia is a region of rapid urbanisation, unprecedented growth and thriving digital adoption – it provides young talent with diverse work opportunities to venture into new and booming sectors arising from digital transformation across various industries.</div><div class="isomer-card-link">Find out about the region and what you can expect here.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.eyeonasia.gov.sg/china/know/overview-of-china/" class="isomer-card">
 <div class="isomer-card-image">
