@@ -15,14 +15,14 @@ sections:
       button: LEARN MORE HERE
       url: /learn-more-here/
       key_highlights:
-        - title: MA programme
-          description: Train fresh grads
+        - title: About the Programme
+          description: ""
           url: https://google.com
-        - title: Internship programme
-          description: Mentorship
+        - title: Internship Opportunities
+          description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Peer Testimonials
+          description: ""
           url: /privacy/
       variant: side
       backgroundColor: black
