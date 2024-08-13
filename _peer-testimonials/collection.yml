@@ -1,4 +1,5 @@
 collections:
   peer-testimonials:
     output: true
-    order: []
+    order:
+      - example-page.md
