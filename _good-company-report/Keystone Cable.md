@@ -6,6 +6,9 @@ description: ""
 ---
 <p><strong>INDUSTRY: ADVANCED MANUFACTURING</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QgwRcjTNu2E?si=duCF2wFyyBPPIebI"></iframe>
+</div>
 <h2><strong>KEYSTONE CABLE</strong></h2>
 <p>Plug into your future with Keystone Cable.</p>
 <p>The leading Singapore-based cable manufacturer and supplier for the region
