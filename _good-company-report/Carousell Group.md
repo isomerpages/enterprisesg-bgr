@@ -4,6 +4,11 @@ permalink: /carousell-group/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>ICT &amp; MEDIA</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>INDUSTRY: ICT &amp; MEDIA</strong>
 </p>
 <div class="iframe-wrapper">
@@ -68,5 +73,22 @@ and cross-functional experiences</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/download__8_.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
