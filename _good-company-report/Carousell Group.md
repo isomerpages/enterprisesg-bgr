@@ -7,7 +7,8 @@ description: ""
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>ICT &amp; MEDIA</summary>
+<summary><strong>Carousell Group</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>INDUSTRY: ICT &amp; MEDIA</strong>
 </p>
