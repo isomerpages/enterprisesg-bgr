@@ -46,6 +46,9 @@ description: ""
 <p>Singapore University of Technology and Design</p>
 </li>
 <li>
+<p>University of the Arts Singapore (Local internships only)</p>
+</li>
+<li>
 <p>Nanyang Academy of Fine Arts (Local internships only)</p>
 </li>
 <li>
