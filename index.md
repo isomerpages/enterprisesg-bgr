@@ -29,16 +29,9 @@ sections:
       size: md
       alignment: right
   - infobar:
-      title: Global Ready Talent Programme
+      title: Living and Working Overseas
       subtitle: Learn more here
       description: Nurturing Local Ambitions for Global Aspirations
       button: FAQ
       url: /faq/
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
