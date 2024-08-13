@@ -2,9 +2,9 @@ collections:
   good-company-report:
     output: true
     order:
+      - Built Environment/.keep
       - Built Environment/Prime Structures Engineering.md
       - Built Environment/Meinhardt.md
-      - Built Environment/.keep
       - Good Company Report.md
       - Advanced Manufacturing/Keystone Cable.md
       - Advanced Manufacturing/.keep
