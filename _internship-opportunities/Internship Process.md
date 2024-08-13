@@ -24,4 +24,3 @@ link &lt;insert form SG link when ready&gt; as soon as the internship ends.</p>
 <p>Your respective institute may also require you to submit other deliverables
 e.g. an internship report. As such, be sure to check with your institute
 for the requirements.</p>
-<p>has ended.</p>
