@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Energy & Metals/.keep
-      - Mlion Corporation.md
       - Good Company Report.md
       - Advanced Manufacturing/.keep
       - Advanced Manufacturing/Keystone Cable.md
