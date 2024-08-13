@@ -30,8 +30,8 @@ sections:
       alignment: right
   - infobar:
       title: Living and Working Overseas
-      subtitle: Learn more here
+      subtitle: Curious to know what it's like
       description: Nurturing Local Ambitions for Global Aspirations
-      button: FAQ
-      url: /faq/
+      button: Hear from fellow peers here
+      url: /Overseas-experience/
 ---
