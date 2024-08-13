@@ -2,5 +2,6 @@ collections:
   good-company-report:
     output: true
     order:
+      - Keystone Cable.md
       - Good Company Report/Good Company Report.md
       - Good Company Report/.keep
