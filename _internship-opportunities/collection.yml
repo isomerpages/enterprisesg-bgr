@@ -1,5 +1,5 @@
 collections:
-  internship-programme:
+  internship-opportunities:
     output: true
     order:
       - Local Internships.md
