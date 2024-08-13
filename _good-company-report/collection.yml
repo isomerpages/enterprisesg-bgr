@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Energy & Chemicals/.keep
-      - Maha Chemicals.md
       - Sing Fuels.md
       - Education/Training Vision Institute.md
       - Education/.keep
