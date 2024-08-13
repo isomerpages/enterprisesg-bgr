@@ -2,4 +2,5 @@ collections:
   good-company-report:
     output: true
     order:
+      - Good Company Report/Good Company Report.md
       - Good Company Report/.keep
