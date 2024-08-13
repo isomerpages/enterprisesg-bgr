@@ -2,6 +2,7 @@ collections:
   good-company-report:
     output: true
     order:
+      - Prime Structures Engineering.md
       - Meinhardt.md
       - Good Company Report.md
       - Advanced Manufacturing/Keystone Cable.md
