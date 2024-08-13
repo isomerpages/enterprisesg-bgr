@@ -2,6 +2,7 @@ collections:
   good-company-report:
     output: true
     order:
+      - Good Company Report.md
       - Advanced Manufacturing/Keystone Cable.md
       - Advanced Manufacturing/.keep
       - Good Company Report/.keep
