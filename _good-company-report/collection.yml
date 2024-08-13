@@ -2,6 +2,7 @@ collections:
   good-company-report:
     output: true
     order:
+      - 2024/Carousell Group.md
       - 2024/.keep
       - Food Services/Commonwealth Capital Group.md
       - Food Services/.keep
