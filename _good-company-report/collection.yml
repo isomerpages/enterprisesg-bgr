@@ -2,6 +2,7 @@ collections:
   good-company-report:
     output: true
     order:
+      - Mlion Corporation.md
       - Good Company Report.md
       - Advanced Manufacturing/.keep
       - Advanced Manufacturing/Keystone Cable.md
