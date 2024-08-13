@@ -30,9 +30,9 @@ sections:
       size: md
       alignment: right
   - infobar:
-      title: Click here
+      title: Global Ready Talent Programme
       subtitle: Learn more here
-      description: About a sentence worth of description here
+      description: Nurturing Local Ambitions for Global Aspirations
       button: FAQ
       url: /faq/
   - infopic:
