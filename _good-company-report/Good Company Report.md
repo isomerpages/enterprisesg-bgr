@@ -4,7 +4,7 @@ permalink: /good-company-report/
 variant: tiptap
 description: ""
 ---
-<h4>Dream big - join local!</h4>
+<h4>Dream Big - Join Local!</h4>
 <p>Our yearly Good Company Report (GCR) continues to uncover fast-growing
 local SMEs with great company culture, industry exposure, and opportunities
 to launch your dream career.</p>
