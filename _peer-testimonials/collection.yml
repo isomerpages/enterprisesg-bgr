@@ -1,0 +1,4 @@
+collections:
+  peer-testimonials:
+    output: true
+    order: []
