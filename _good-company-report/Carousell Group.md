@@ -6,6 +6,9 @@ description: ""
 ---
 <p><strong>INDUSTRY: ICT &amp; MEDIA</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2iZnBgoSKgc?si=iF8tPSnJp1L9eN06"></iframe>
+</div>
 <h2><strong>CAROUSELL GROUP</strong></h2>
 <p>Making secondhand the first choice for everyone.</p>
 <p>That’s the core mission of Carousell Group, founded in August 2012 in
