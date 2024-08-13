@@ -2,6 +2,7 @@ collections:
   good-company-report:
     output: true
     order:
+      - Food Services/.keep
       - Good Company Report.md
       - Commonwealth Capital Group.md
       - Energy & Metals/.keep
