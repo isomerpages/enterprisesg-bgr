@@ -2,6 +2,7 @@ collections:
   good-company-report:
     output: true
     order:
+      - Training Vision Institute.md
       - Built Environment/.keep
       - Built Environment/Prime Structures Engineering.md
       - Built Environment/Meinhardt.md
