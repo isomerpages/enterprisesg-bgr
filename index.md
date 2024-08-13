@@ -15,7 +15,7 @@ sections:
       button: LEARN MORE HERE
       url: /learn-more-here/
       key_highlights:
-        - title: About the Programme
+        - title: Good Company Reports
           description: ""
           url: https://google.com
         - title: Internship Opportunities
@@ -25,7 +25,7 @@ sections:
           description: ""
           url: /privacy/
         - title: Overseas Resources
-          description: Key Highlight description
+          description: ""
           url: ""
       variant: side
       backgroundColor: black
