@@ -4,8 +4,6 @@ links:
     collection: global-ready-talent-programme
   - title: Internship Opportunities
     collection: internship-opportunities
-  - title: Peer Testimonials
-    collection: global-ready-talent-programme
   - title: Good Company Reports
     collection: good-company-report
   - title: Overseas Resources
@@ -14,3 +12,5 @@ links:
     collection: global-ready-talent-programme
   - title: Contact Us
     url: /contact-us/
+  - title: Peer Testimonials
+    url: /permalink
