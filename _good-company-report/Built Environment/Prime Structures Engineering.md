@@ -7,6 +7,9 @@ third_nav_title: Built Environment
 ---
 <p><strong>INDUSTRY: BUILT ENVIRONMENT</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ee8-c-aHifA?si=HROF5C7YbPkEKnrr"></iframe>
+</div>
 <h2><strong>PRIME STRUCTURES ENGINEERING</strong></h2>
 <p>Established in 1995, Prime Structures Engineering is a Singapore-based
 company providing complete building envelope solutions across Asia. The
