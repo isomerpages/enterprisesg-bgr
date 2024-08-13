@@ -1,5 +1,5 @@
-title: Title
-url: ""
+title: Global Ready Talent Programme
+url: https://www.beglobalready.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#6031b6"
@@ -15,7 +15,9 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: A portal for young talents to access global opportunities with
+  Singapore enterprises to experience diverse work cultures, build global
+  networks, and gain a competitive edge.
 permalink: none
 baseurl: ""
 exclude:
@@ -53,3 +55,7 @@ staging: https://staging-lite.d3hhy0v7zac8zn.amplifyapp.com
 prod: https://master.d8cu29s1ycaje.amplifyapp.com
 facebook-pixel: ""
 resources_name: resource-room
+shareicon: /images/isomer-logo.svg
+is_government: true
+google_analytics_ga4: ""
+linkedin-insights: ""
