@@ -24,6 +24,9 @@ sections:
         - title: Peer Testimonials
           description: ""
           url: /privacy/
+        - title: Overseas Resources
+          description: Key Highlight description
+          url: ""
       variant: side
       backgroundColor: black
       size: md
