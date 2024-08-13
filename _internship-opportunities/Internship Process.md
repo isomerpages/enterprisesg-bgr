@@ -15,8 +15,13 @@ Global Ready Talent Programme:</p>
 <h4>Application and Feedback Process</h4>
 <p>Here is the expected process flow for every internship. Do take note to
 abide by the timeframe.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_07_110705.png">
 </div>
-<p></p>
+<h4>Internship Deliverables</h4>
+<p>An intern is expected to submit online feedback to EnterpriseSG via this
+link &lt;insert form SG link when ready&gt; as soon as the internship ends.</p>
+<p>Your respective institute may also require you to submit other deliverables
+e.g. an internship report. As such, be sure to check with your institute
+for the requirements.</p>
+<p>has ended.</p>
