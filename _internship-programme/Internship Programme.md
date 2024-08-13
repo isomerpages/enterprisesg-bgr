@@ -4,7 +4,7 @@ permalink: /internship-programme/
 variant: tiptap
 description: ""
 ---
-<h2>Internship Programme</h2>
+<h2>Internship Opportunities</h2>
 <p>Learning does not have to be confined to only the classroom. Our Global
 Ready Talent Programme offers <strong>young talents</strong> access to local
 and overseas internships in promising Singapore and international enterprises.</p>
