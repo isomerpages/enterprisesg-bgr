@@ -4,7 +4,7 @@ permalink: /global-internships/
 variant: tiptap
 description: ""
 ---
-<h2>Internships in Overseas Markets</h2>
+<h2>Global Internships in Overseas Markets</h2>
 <p></p>
 <p>Embarking on an overseas attachment or internship is a great opportunity
 to expand your horizons, immerse yourself in another culture, and gain
