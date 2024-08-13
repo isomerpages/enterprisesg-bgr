@@ -15,15 +15,15 @@ sections:
       button: LEARN MORE HERE
       url: /learn-more-here/
       key_highlights:
-        - title: Good Company Reports
-          description: ""
-          url: https://google.com
         - title: Internship Opportunities
           description: ""
           url: https://gmail.com
         - title: Peer Testimonials
           description: ""
           url: /privacy/
+        - title: Good Company Reports
+          description: ""
+          url: https://google.com
         - title: Overseas Resources
           description: ""
           url: ""
@@ -34,7 +34,6 @@ sections:
   - infobar:
       title: Living and Working Overseas
       subtitle: Curious to know what it's like
-      description: Nurturing Local Ambitions for Global Aspirations
       button: Hear from fellow peers here
       url: /Overseas-experience/
 ---
