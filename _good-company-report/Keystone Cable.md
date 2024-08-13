@@ -21,7 +21,7 @@ where progress is its language and new technologies are its playground.</p>
 <p>Curious about life at Keystone Cable? Watch this video to discover how
 you can be part of the dynamic team!</p>
 <p>This video is filmed and produced by students from Nanyang Polytechnic.</p>
-<h4>WHY KEYSTONE CABLE?</h4>
+<h4><strong>WHY KEYSTONE CABLE?</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -32,12 +32,21 @@ you can be part of the dynamic team!</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/download.svg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/aHR0cHM6Ly93d3cuYmVnbG9iYWxyZWFkeS5nb3Yuc2cvR0NSL2ltYWdlcy9pY29ucy9pY29uX2Iuc3Zn.svg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/aHR0cHM6Ly93d3cuYmVnbG9iYWxyZWFkeS5nb3Yuc2cvR0NSL2ltYWdlcy9pY29ucy9pY29uX2Muc3Zn.svg">
+</div>
 </th>
 </tr>
 <tr>
@@ -55,42 +64,9 @@ environment</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-<div class="isomer-card-description">Join a progressive workplace that invests in technologies and people</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-<div class="isomer-card-description">Flourish in a collaborative culture that empowers individual and collective
-success</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-<div class="isomer-card-description">Experience the camaraderie of a tight-knit team within a dynamic work
-environment</div>
-</div>
-</div>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/download.png">
 </div>
 <h4><br></h4>
 <p></p>
