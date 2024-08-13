@@ -6,15 +6,14 @@ description: A portal for young talents to access global opportunities with
   networks, and gain a competitive edge.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Refresh on 15May
+notification: ""
 sections:
   - hero:
       title: Global Ready Talent Programme
-      subtitle: Nurture your next generation of talent through internships and
-        overseas work opportunities.
+      subtitle: Nurturing Local Ambitions for Global Aspirations
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      button: LEARN MORE HERE
+      url: /learn-more-here/
       key_highlights:
         - title: MA programme
           description: Train fresh grads
