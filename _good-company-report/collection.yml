@@ -2,6 +2,7 @@ collections:
   good-company-report:
     output: true
     order:
+      - Commonwealth Capital Group.md
       - Energy & Metals/Mlion Corporation.md
       - Energy & Metals/.keep
       - Good Company Report.md
