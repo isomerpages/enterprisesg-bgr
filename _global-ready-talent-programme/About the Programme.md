@@ -4,7 +4,7 @@ permalink: /global-ready-talent-programme/
 variant: tiptap
 description: ""
 ---
-<h2>Nurturing Local Ambitions for Global Aspirations</h2>
+<h2>Global Ready Talent Programme</h2>
 <p>Learning does not have to be confined to only the classroom. Our Global
 Ready Talent Programme offers <strong>young talents</strong> access to local
 and overseas internships in promising Singapore and international enterprises.</p>
