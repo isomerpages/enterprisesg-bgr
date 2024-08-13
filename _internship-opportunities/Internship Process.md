@@ -21,9 +21,10 @@ abide by the timeframe.</p>
 <h4>Internship Deliverables</h4>
 <p>An intern is expected to submit online feedback to EnterpriseSG via this
 link &lt;insert form SG link when ready&gt; as soon as the internship ends.</p>
-<p>Your respective institute may also require you to submit other deliverables
-e.g. an internship report. As such, be sure to check with your institute
-for the deliverables to be submitted.</p>
+<p>Your respective institute of higher learning may also require you to submit
+other deliverables e.g. an internship report. As such, be sure to check
+with your institute for the deliverables to be submitted as psrt of internship
+fulfilment.</p>
 <h4>To Apply</h4>
 <p>Approach the career centre of your institute of higher learning for internship
 job matching.</p>
