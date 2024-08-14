@@ -82,8 +82,9 @@ of Singapore, interned in Indonesia</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -101,6 +102,9 @@ and improved my Mandarin.</p>
 in-market research for my company.</p>
 </blockquote>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -115,6 +119,9 @@ in-market research for my company.</p>
 <img style="width: 23%;" height="auto" width="100%" alt="" src="/images/download__4_.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -123,6 +130,9 @@ in-market research for my company.</p>
 <td rowspan="1" colspan="1">
 <p>Charleston Nyam, studied in Nanyang Technological University, interned
 in India</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
