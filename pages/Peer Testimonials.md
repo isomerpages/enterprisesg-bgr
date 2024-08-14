@@ -41,8 +41,8 @@ of in-market marketing campaigns</p>
 </th>
 <th rowspan="1" colspan="1">
 <blockquote>
-<p>By assisting with the rollout of regional HR policies, I fostered great
-in-market knowledge and expertise.</p>
+<p>I collaborated with the Indonesian product development team and this helped
+me appreciated their work culture..</p>
 </blockquote>
 </th>
 </tr>
@@ -50,32 +50,34 @@ in-market knowledge and expertise.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/download.jpg">
+<img style="width: 37%;" height="auto" width="100%" alt="" src="/images/download.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/download.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/download__1_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/download.jpg">
+<img style="width: 32%;" height="auto" width="100%" alt="" src="/images/download__2_.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Evans Ong, studied in Nanyang Technological University, interned in Taiwan</p>
+<p><strong>Evans Ong</strong>, studied in Nanyang Technological University,
+interned in Taiwan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shireen Shafikah D/O Mujibur Rahman, studied in Nanyang Polytechnic, interned
-in Vietnam</p>
+<p><strong>Shireen Shafikah D/O Mujibur Rahman</strong>, studied in Nanyang
+Polytechnic, interned in Vietnam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Evans Ong, studied in Nanyang Technological University, interned in Taiwan</p>
+<p><strong>Pawandeep Singh Sekhon</strong>, studied in National University
+of Singapore, interned in Indonesia</p>
 </td>
 </tr>
 </tbody>
