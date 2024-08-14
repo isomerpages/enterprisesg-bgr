@@ -4,18 +4,6 @@ permalink: /peer-testimonials/
 variant: tiptap
 description: ""
 ---
-<p>@Celine, pls copy and paste these content over</p>
-<p>Overseas Experiences</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Video &amp; some intern testimonials</p>
-<p></p>
-<p>Local Experiences</p>
-</li>
-<li>
-<p>Some intern testimonials</p>
-</li>
-</ul>
 <h2><strong>Hear from our alumni</strong></h2>
 <h4><strong>Overseas Experiences</strong></h4>
 <p><strong>&lt;insert embed video&gt;</strong>
@@ -229,3 +217,7 @@ of work.</p>
 </li>
 </ul>
 <p>Watch the full session here:</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/I10VqYlOfRQ?si=EOTQCEf5jZI2LHER"></iframe>
+</div>
+<p></p>
