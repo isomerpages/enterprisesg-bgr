@@ -153,6 +153,10 @@ young talent could leverage to acquire in-market skills and experience
 and to build a global mindset.</p>
 <p>Hear from our speakers who shared on their overseas work experiences and
 how their companies invest in their people.</p>
+<blockquote>
+<p><strong>Your Biggest Concern Addressed</strong>
+</p>
+</blockquote>
 <h4><strong>Session 1: Looking to start your career overseas?</strong></h4>
 <p>Hear from our speakers, Mr. Fong Cha Ka (Vice-President, Putien Holdings)
 and Mr. Evans Ong (Regional HR Technologist, Maha Chemicals (Asia)) who
@@ -175,7 +179,11 @@ skillsets.</p>
 </li>
 </ul>
 <p>Watch the full session here:</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/40_DlkPUYCQ?si=j4M-2OGqdAqfL4O-"></iframe>
+</div>
 <h4><strong>Session 2: Feeling unsure about taking up an overseas opportunity?</strong></h4>
+<p></p>
 <p>Hear from our speakers, Mr. Willy Koh (CEO, Racer Technology) and Mr.
 Teri Teo (Business Development Director, PS Food &amp; Beverage (s)) who
 have rich overseas work experience. Discover how they overcame challenges
@@ -193,7 +201,8 @@ to prepare young talents for their overseas posting.</p>
 </li>
 </ul>
 <p>Watch the full session here:</p>
-<p>Your ACI Story Retold</p>
+<p><strong>Your ACI Story Retold</strong>
+</p>
 <p>An interactive session where participants journeyed with speaker, Mr.
 Kevin Chew, to Thailand and embarked on an exciting expedition filled with
 trials, conflicting decisions, and friendly encounters with the locals.
