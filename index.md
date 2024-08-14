@@ -21,9 +21,6 @@ sections:
         - title: Peer Testimonials
           description: ""
           url: /privacy/
-        - title: Good Company Reports
-          description: ""
-          url: https://google.com
         - title: Overseas Resources
           description: ""
           url: ""
