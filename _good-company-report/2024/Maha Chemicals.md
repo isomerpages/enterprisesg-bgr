@@ -11,7 +11,7 @@ third_nav_title: "2024"
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7rEdIMWHFpE?si=dMycOPkQgKYGC5Nn"></iframe>
 </div>
 <h2><strong>MAHA CHEMICALS</strong></h2>
-<p>Headquarted in Singapore, Maha Chemicals offers sustainable solutions
+<p>Headquartered in Singapore, Maha Chemicals offers sustainable solutions
 and services for specialty chemicals and equipment. They were awarded the
 Enterprise 50 Award in 2021 and the EcoVadis Silver Rating for their sustainable
 efforts in 2021 and 2022.</p>
