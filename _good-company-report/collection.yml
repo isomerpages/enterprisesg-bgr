@@ -2,6 +2,7 @@ collections:
   good-company-report:
     output: true
     order:
+      - 2024/Commonwealth Capital Group.md
       - 2024/ICT & Media.md
       - 2024/.keep
       - Food Services/.keep
