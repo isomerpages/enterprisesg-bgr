@@ -32,8 +32,8 @@ sections:
       size: md
       alignment: right
   - infobar:
-      title: Living and Working Overseas
-      subtitle: Curious to know what it's like
-      button: Hear from fellow peers here
-      url: /Overseas-experience/
+      title: Good Company Reports
+      subtitle: Find good employers here
+      button: Click to discover
+      url: /good-company-reports/
 ---
