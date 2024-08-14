@@ -2,11 +2,6 @@ collections:
   good-company-report:
     output: true
     order:
-      - 2023/.keep
-      - 2023/Kobe Global Technologies.md
-      - 2023/Maha Chemicals.md
-      - 2023/Prime Structures Engineering.md
-      - 2023/Training Vision Institute.md
       - Good Company Report.md
       - 2024/.keep
       - 2024/Carousell Group.md
@@ -23,3 +18,8 @@ collections:
       - 2024/Prime Structures Engineering.md
       - 2024/Sing Fuels.md
       - 2024/Training Vision Institute.md
+      - 2023/.keep
+      - 2023/Kobe Global Technologies.md
+      - 2023/Maha Chemicals.md
+      - 2023/Prime Structures Engineering.md
+      - 2023/Training Vision Institute.md
