@@ -2,6 +2,7 @@ collections:
   good-company-report:
     output: true
     order:
+      - Maha Chemicals.md
       - Kobe Global Technologies.md
       - Good Company Report.md
       - 2024/.keep
