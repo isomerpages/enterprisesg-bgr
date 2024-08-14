@@ -2,7 +2,6 @@ collections:
   good-company-report:
     output: true
     order:
-      - 2022.md
       - Good Company Report.md
       - 2024/.keep
       - 2024/Carousell Group.md
@@ -24,3 +23,4 @@ collections:
       - 2023/Maha Chemicals.md
       - 2023/Prime Structures Engineering.md
       - 2023/Training Vision Institute.md
+      - 2022.md
