@@ -2,6 +2,7 @@ collections:
   good-company-report:
     output: true
     order:
+      - Prime Structures Engineering.md
       - Maha Chemicals.md
       - Kobe Global Technologies.md
       - Good Company Report.md
