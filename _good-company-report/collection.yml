@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Good Company Report.md
+      - 2024/Hegen.md
       - 2024/Kobe Global Technologies.md
       - 2024/Nium.md
       - 2024/.keep
