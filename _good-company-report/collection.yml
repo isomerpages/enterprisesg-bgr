@@ -2,6 +2,7 @@ collections:
   good-company-report:
     output: true
     order:
+      - 2023/Kobe Global Technologies.md
       - 2023/.keep
       - Training Vision Institute.md
       - Prime Structures Engineering.md
