@@ -32,19 +32,45 @@ description: ""
 in-market knowledge and expertise."</div>
 <div class="isomer-card-description">Evans Ong, studied in Nanyang Technological University, interned in Taiwan</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">"I deepened my understanding of the Vietnamese consumer through development
+of in-market marketing campaigns."</div>
+<div class="isomer-card-description">Shireen Shafikah D/O Mujibur Rahman, studied in Nanyang Polytechnic, interned
+in Vietnam</div>
 </div>
-</a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">"I collaborated with the Indonesian product development team and this
+helped me appreciated their work culture."</div>
+<div class="isomer-card-description">Pawandeep Singh Sekhon, studied in National University of Singapore, interned
+in Indonesia</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="yeo pei xuan" src="/images/download__3_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">"Through supporting my company during an exhibition, I learnt to be adaptable
+and improved my Mandarin."</div>
+<div class="isomer-card-description">Yeo Pei Xuan, studied in ITE College East, interned in China</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="charleston nyam" src="/images/download__4_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">"I gained compelling perspectives of Indian diversity and heritage by conducting in-market research for my company."</div><div class="isomer-card-description">Charleston Nyam, studied in Nanyang Technological University, interned in India</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <table style="minWidth: 75px">
 <colgroup>
@@ -72,26 +98,6 @@ of in-market marketing campaigns.</p>
 me appreciated their work culture.</p>
 </blockquote>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 37%;" height="auto" width="100%" alt="" src="/images/download.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/download__1_.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 32%;" height="auto" width="100%" alt="" src="/images/download__2_.jpg">
-</div>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
