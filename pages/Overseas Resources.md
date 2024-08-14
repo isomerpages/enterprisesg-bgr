@@ -23,7 +23,7 @@ supply chain hub offers extensive opportunities to launch a regional career.</di
 </a><a rel="noopener noreferrer nofollow" href="https://www.eyeonasia.gov.sg/india/know/overview-of-india/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/India.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">India</div><div class="isomer-card-description">India is one of the fastest-growing economies in the world. With rapid digitalisation and a burgeoning technology sector, there are massive opportunities especially in information technology industries to broaden your career horizon, and immerse yourself in the country’s rich culture and heritage.</div><div class="isomer-card-link">Find out more about India here.</div></div></a>
 </div>
 <hr>
-<h4>Overseas Resources content in collaboration with: </h4>
+<h4>Overseas Resources content in collaboration with:</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/download__14_.png">
 </div>
