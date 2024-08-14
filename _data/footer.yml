@@ -1,10 +1,8 @@
-contact_us: /contact-us/
 show_reach: true
 faq: /faq/
 social_media:
-  facebook: https://www.facebook.com/YourFBPage
+  facebook: https://www.facebook.com/enterprisesg
   twitter: https://www.twitter.com/YourTwitter
-  youtube: https://www.youtube.com/YourYoutube
+  youtube: https://www.youtube.com/channel/UCkd8gJNhId_XMFHbjrt-tzw
   instagram: https://www.instagram.com/your.insta/
   linkedin: https://www.linkedin.com/company/YourAgency
-feedback: ""
