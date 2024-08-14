@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Good Company Report.md
+      - 2024/Nium.md
       - 2024/.keep
       - 2024/Carousell Group.md
       - 2024/Commonwealth Capital Group.md
