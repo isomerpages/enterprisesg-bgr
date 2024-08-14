@@ -2,7 +2,6 @@ collections:
   good-company-report:
     output: true
     order:
-      - 2023.md
       - Good Company Report.md
       - 2024/.keep
       - 2024/Carousell Group.md
