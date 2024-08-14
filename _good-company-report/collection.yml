@@ -2,14 +2,14 @@ collections:
   good-company-report:
     output: true
     order:
+      - 2024/.keep
+      - 2024/Carousell Group.md
+      - 2024/Commonwealth Capital Group.md
+      - 2024/Keystone Cable.md
       - 2024/Maha Chemicals.md
+      - 2024/Meinhardt.md
+      - 2024/Mlion Corporation.md
       - 2024/Sing Fuels.md
       - 2024/Training Vision Institute.md
       - 2024/Prime Structures Engineering.md
-      - 2024/Meinhardt.md
-      - 2024/Keystone Cable.md
-      - 2024/Mlion Corporation.md
-      - 2024/Commonwealth Capital Group.md
-      - 2024/Carousell Group.md
-      - 2024/.keep
       - Good Company Report.md
