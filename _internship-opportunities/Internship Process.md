@@ -15,8 +15,9 @@ Global Ready Talent Programme:</p>
 <h4>Internship Process Flow</h4>
 <p>Here is the expected process flow for every internship. Do take note to
 abide by the timeframe.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_07_110705.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_13_174028.png">
 </div>
 <h4>Internship Deliverables</h4>
 <p>An intern is expected to submit online feedback to EnterpriseSG via this
