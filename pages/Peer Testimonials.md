@@ -129,5 +129,18 @@ employee."</div>
 at MAZARS LLP.</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="daphne ng" src="/images/download__8_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">"The internship greatly strengthed my understanding of brand marketing.
+My internship was an enriching, stimulating and collaborative time!"</div>
+<div class="isomer-card-description">Daphne Ng, studied in Singapore University of Social Sciences, worked
+at BORBREEZE GROUP PTE. LTD.</div>
+</div>
+</div>
 </div>
 <p></p>
