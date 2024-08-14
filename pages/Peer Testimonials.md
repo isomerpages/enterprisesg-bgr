@@ -82,34 +82,38 @@ of Singapore, interned in Indonesia</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<blockquote>
 <p>Through supporting my company during an exhibition, I learnt to be adaptable
 and improved my Mandarin.</p>
+</blockquote>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<blockquote>
+<p>I gained compelling perspectives of Indian diversity and heritage by conducting
+in-market research for my company.</p>
+</blockquote>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/download__3_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 23%;" height="auto" width="100%" alt="" src="/images/download__4_.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -117,10 +121,8 @@ and improved my Mandarin.</p>
 <p>Yeo Pei Xuan, studied in ITE College East, interned in China</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Charleston Nyam, studied in Nanyang Technological University, interned
+in India</p>
 </td>
 </tr>
 </tbody>
