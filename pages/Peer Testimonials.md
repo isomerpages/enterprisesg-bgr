@@ -36,7 +36,7 @@ in-market knowledge and expertise."</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/download__1_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -49,7 +49,7 @@ in Vietnam</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/download__2_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -70,104 +70,19 @@ in Indonesia</div>
 and improved my Mandarin."</div>
 <div class="isomer-card-description">Yeo Pei Xuan, studied in ITE College East, interned in China</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="charleston nyam" src="/images/download__4_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">"I gained compelling perspectives of Indian diversity and heritage by conducting in-market research for my company."</div><div class="isomer-card-description">Charleston Nyam, studied in Nanyang Technological University, interned in India</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<blockquote>
-<p>By assisting with the rollout of regional HR policies, I fostered great
-in-market knowledge and expertise.</p>
-</blockquote>
-</th>
-<th rowspan="1" colspan="1">
-<blockquote>
-<p>I deepened my understanding of the Vietnamese consumer through development
-of in-market marketing campaigns.</p>
-</blockquote>
-</th>
-<th rowspan="1" colspan="1">
-<blockquote>
-<p>I collaborated with the Indonesian product development team and this helped
-me appreciated their work culture.</p>
-</blockquote>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Evans Ong</strong>, studied in Nanyang Technological University,
-interned in Taiwan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Shireen Shafikah D/O Mujibur Rahman</strong>, studied in Nanyang
-Polytechnic, interned in Vietnam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Pawandeep Singh Sekhon</strong>, studied in National University
-of Singapore, interned in Indonesia</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<blockquote>
-<p>Through supporting my company during an exhibition, I learnt to be adaptable
-and improved my Mandarin.</p>
-</blockquote>
-</th>
-<th rowspan="1" colspan="1">
-<blockquote>
-<p>I gained compelling perspectives of Indian diversity and heritage by conducting
-in-market research for my company.</p>
-</blockquote>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/download__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="charleston nyam" src="/images/download__4_.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 23%;" height="auto" width="100%" alt="" src="/images/download__4_.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Yeo Pei Xuan, studied in ITE College East, interned in China</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Charleston Nyam, studied in Nanyang Technological University, interned
-in India</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-card-body">
+<div class="isomer-card-title">"I gained compelling perspectives of Indian diversity and heritage by
+conducting in-market research for my company."</div>
+<div class="isomer-card-description">Charleston Nyam, studied in Nanyang Technological University, interned
+in India</div>
+</div>
+</div>
+</div>
 <p></p>
