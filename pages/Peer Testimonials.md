@@ -36,13 +36,13 @@ in-market knowledge and expertise.</p>
 <th rowspan="1" colspan="1">
 <blockquote>
 <p>I deepened my understanding of the Vietnamese consumer through development
-of in-market marketing campaigns</p>
+of in-market marketing campaigns.</p>
 </blockquote>
 </th>
 <th rowspan="1" colspan="1">
 <blockquote>
 <p>I collaborated with the Indonesian product development team and this helped
-me appreciated their work culture..</p>
+me appreciated their work culture.</p>
 </blockquote>
 </th>
 </tr>
@@ -78,6 +78,49 @@ Polytechnic, interned in Vietnam</p>
 <td rowspan="1" colspan="1">
 <p><strong>Pawandeep Singh Sekhon</strong>, studied in National University
 of Singapore, interned in Indonesia</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Through supporting my company during an exhibition, I learnt to be adaptable
+and improved my Mandarin.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yeo Pei Xuan, studied in ITE College East, interned in China</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
