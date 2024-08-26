@@ -13,7 +13,7 @@ sections:
       subtitle: Nurturing Local Ambitions for Global Aspirations
       background: /images/hero-banner.png
       button: LEARN MORE HERE
-      url: /learn-more-here/
+      url: /global-ready-talent-programme/
       key_highlights:
         - title: Internship Opportunities
           description: ""
