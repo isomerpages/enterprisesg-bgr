@@ -20,7 +20,7 @@ sections:
           url: https://www.beglobalready.gov.sg/local-internships/
         - title: Peer Testimonials
           description: ""
-          url: /privacy/
+          url: https://www.beglobalready.gov.sg/peer-testimonials/
         - title: Overseas Resources
           description: ""
           url: ""
