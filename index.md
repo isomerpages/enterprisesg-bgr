@@ -13,7 +13,7 @@ sections:
       subtitle: Nurturing Local Ambitions for Global Aspirations
       background: /images/hero-banner.png
       button: LEARN MORE HERE
-      url: /global-ready-talent-programme/
+      url: https://www.beglobalready.gov.sg/global-ready-talent-programme/
       key_highlights:
         - title: Internship Opportunities
           description: ""
