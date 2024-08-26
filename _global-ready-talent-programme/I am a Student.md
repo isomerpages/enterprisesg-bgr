@@ -59,8 +59,8 @@ description: ""
 <p></p>
 </li>
 </ul>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.beglobalready.gov.sg/internship-opportunities/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/hear.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hear what your peers have to say</div><div class="isomer-card-description">Kickstart your career and gain more work experience through local and overseas opportunities.</div><div class="isomer-card-link">Learn more here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://staging.d8cu29s1ycaje.amplifyapp.com/internship-programme/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.beglobalready.gov.sg/peer-testimonials/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/hear.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hear what your peers have to say</div><div class="isomer-card-description">Kickstart your career and gain more work experience through local and overseas opportunities.</div><div class="isomer-card-link">Learn more here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.beglobalready.gov.sg/internship-opportunities/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/join.png">
@@ -70,7 +70,7 @@ description: ""
 <div class="isomer-card-title">Join as Intern</div>
 <div class="isomer-card-description">Equip yourself with global insights and marketable skills, with an exciting
 internship experience at a Singapore enterprise.</div>
-<div class="isomer-card-link">Learn more here.</div>
+<div class="isomer-card-link">Learn more here</div>
 </div>
 </a>
 </div>
