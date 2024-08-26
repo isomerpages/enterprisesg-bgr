@@ -32,5 +32,5 @@ sections:
       title: Good Company Reports
       subtitle: Find good employers here
       button: Click to discover
-      url: https://www.beglobalready.gov.sg/good-company-reports/
+      url: https://www.beglobalready.gov.sg/good-company-report/
 ---
