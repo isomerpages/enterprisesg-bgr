@@ -17,7 +17,7 @@ sections:
       key_highlights:
         - title: Internship Opportunities
           description: ""
-          url: https://gmail.com
+          url: https://www.beglobalready.gov.sg/local-internships/
         - title: Peer Testimonials
           description: ""
           url: /privacy/
