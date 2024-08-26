@@ -23,7 +23,7 @@ sections:
           url: https://www.beglobalready.gov.sg/peer-testimonials/
         - title: Overseas Resources
           description: ""
-          url: ""
+          url: https://www.beglobalready.gov.sg/overseas-resources/
       variant: side
       backgroundColor: black
       size: md
