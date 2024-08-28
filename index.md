@@ -37,10 +37,9 @@ sections:
       title: Be a Global Ready Talent!
       id: textcards
       cards:
-        - title: Hear from peers
-          description: Kickstart your career and gain more local and overseas work
-            experience
-          linktext: Learn more
+        - title: Find good employers
+          description: Read about
+          linktext: Start your search here
           url: /peer-testimonials/
         - title: Join as intern
           description: Arm yourself with global insights & marketable skills via exciting
