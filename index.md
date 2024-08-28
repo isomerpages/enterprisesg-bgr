@@ -38,9 +38,8 @@ sections:
           description: Uncover fast-growing local SMEs great to launch your dream career
           linktext: Start your search here
           url: https://www.beglobalready.gov.sg/good-company-report/
-        - title: Find internship opportunities
-          description: Arm yourself with global insights & marketable skills via exciting
-            internships
-          linktext: Kickstart your journey here
-          url: /local-internships/
+        - title: Kickstart your journey
+          description: xxx
+          linktext: Start your journey here
+          url: /internship-process/
 ---
