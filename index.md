@@ -11,7 +11,7 @@ sections:
   - hero:
       title: Global Ready Talent Programme
       subtitle: Nurturing Local Ambitions for Global Aspirations
-      background: /images/hero-banner.png
+      background: /images/Slider4_e9af6a7fda28d6c82a93.png
       button: LEARN MORE HERE
       url: https://www.beglobalready.gov.sg/global-ready-talent-programme/
       key_highlights:
@@ -24,9 +24,9 @@ sections:
         - title: Overseas Resources
           description: ""
           url: https://www.beglobalready.gov.sg/overseas-resources/
-      variant: side
+      variant: floating
       backgroundColor: black
-      size: md
+      size: sm
       alignment: right
   - infobar:
       title: Good Company Reports
