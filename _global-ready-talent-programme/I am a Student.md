@@ -67,7 +67,7 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Join as Intern</div>
+<div class="isomer-card-title">Join as an intern</div>
 <div class="isomer-card-description">Equip yourself with global insights and marketable skills, with an exciting
 internship experience at a Singapore enterprise.</div>
 <div class="isomer-card-link">Learn more here</div>
