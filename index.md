@@ -14,6 +14,9 @@ sections:
       background: /images/Slider4_e9af6a7fda28d6c82a93.png
       url: https://www.beglobalready.gov.sg/global-ready-talent-programme/
       key_highlights:
+        - title: Global Ready Talent Programme
+          description: ""
+          url: https://www.beglobalready.gov.sg/global-ready-talent-programme/
         - title: Internship Opportunities
           description: ""
           url: https://www.beglobalready.gov.sg/local-internships/
