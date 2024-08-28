@@ -12,7 +12,6 @@ sections:
       title: Global Ready Talent Programme
       subtitle: Nurturing Local Ambitions for Global Aspirations
       background: /images/Slider4_e9af6a7fda28d6c82a93.png
-      button: LEARN MORE HERE
       url: https://www.beglobalready.gov.sg/global-ready-talent-programme/
       key_highlights:
         - title: Internship Opportunities
@@ -24,7 +23,7 @@ sections:
         - title: Overseas Resources
           description: ""
           url: https://www.beglobalready.gov.sg/overseas-resources/
-      variant: floating
+      variant: image
       backgroundColor: black
       size: sm
       alignment: right
@@ -33,4 +32,20 @@ sections:
       subtitle: Find good employers here
       button: Click to discover
       url: https://www.beglobalready.gov.sg/good-company-report/
+      description: xxxx
+  - textcards:
+      title: Be a Global Ready Talent!
+      id: textcards
+      description: ""
+      cards:
+        - title: Hear what your peers have to say
+          description: Kickstart your career and gain more local and overseas work
+            experience
+          linktext: Learn more
+          url: /peer-testimonials/
+        - title: Join as intern
+          description: Arm yourself with global insights & marketable skills via exciting
+            internships
+          linktext: xxx
+          url: /local-internships/
 ---
