@@ -26,7 +26,7 @@ sections:
           url: https://www.beglobalready.gov.sg/overseas-resources/
       variant: floating
       backgroundColor: black
-      size: md
+      size: sm
       alignment: right
   - infobar:
       title: Good Company Reports
