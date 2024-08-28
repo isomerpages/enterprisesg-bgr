@@ -35,7 +35,7 @@ sections:
       id: textcards
       cards:
         - title: Find good employers
-          description: Read about
+          description: Uncover fast-growing local SMEs great to launch your dream career
           linktext: Start your search here
           url: https://www.beglobalready.gov.sg/good-company-report/
         - title: Join as intern
