@@ -27,12 +27,6 @@ sections:
       backgroundColor: black
       size: sm
       alignment: right
-  - infobar:
-      title: Good Company Reports
-      subtitle: Find good employers here
-      button: Click to discover
-      url: https://www.beglobalready.gov.sg/good-company-report/
-      description: xxxx
   - textcards:
       title: Be a Global Ready Talent!
       id: textcards
