@@ -36,9 +36,8 @@ sections:
   - textcards:
       title: Be a Global Ready Talent!
       id: textcards
-      description: ""
       cards:
-        - title: Hear what your peers have to say
+        - title: Hear from peers
           description: Kickstart your career and gain more local and overseas work
             experience
           linktext: Learn more
