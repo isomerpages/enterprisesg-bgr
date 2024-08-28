@@ -41,6 +41,6 @@ sections:
         - title: Find internship opportunities
           description: Arm yourself with global insights & marketable skills via exciting
             internships
-          linktext: Kickstart my journey
+          linktext: Kickstart your journey here
           url: /local-internships/
 ---
