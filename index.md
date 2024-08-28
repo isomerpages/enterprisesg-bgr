@@ -37,7 +37,7 @@ sections:
       title: Be a Global Ready Talent!
       id: textcards
       cards:
-        - title: Find good SG employers
+        - title: Find good employers
           description: Read about
           linktext: Start your search here
           url: /peer-testimonials/
