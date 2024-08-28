@@ -40,7 +40,7 @@ sections:
         - title: Find good employers
           description: Read about
           linktext: Start your search here
-          url: /peer-testimonials/
+          url: https://www.beglobalready.gov.sg/good-company-report/
         - title: Join as intern
           description: Arm yourself with global insights & marketable skills via exciting
             internships
