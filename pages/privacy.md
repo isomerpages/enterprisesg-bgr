@@ -3,6 +3,8 @@ title: Privacy Statement
 permalink: /privacy/
 variant: tiptap
 ---
+<ul data-tight="true" class="tight">
+<li>
 <p>This is a Government of Singapore website.
 <br>
 <br>When you visit this website, Enterprise Singapore may collect, handle
@@ -33,18 +35,18 @@ of those sites.
 <br>When you browse the Enterprise Singapore website, your browser provides
 us with the necessary data for the website to be displayed. Such data includes:
 <br>
-<br>Your public IP address
-<br>Date and time of browser request
-<br>GMT difference
-<br>Webpage(s) visited by you
-<br>HTTP status code
-<br>Amount of transferred data
-<br>Referrer URL
-<br>Type of browser
-<br>Browser version and language
-<br>Operating system and interface
-<br>Screen resolution
-<br>Language settings
+<br>- Your public IP address
+<br>- Date and time of browser request
+<br>- GMT difference
+<br>- Webpage(s) visited by you
+<br>- HTTP status code
+<br>- Amount of transferred data
+<br>- Referrer URL
+<br>- Type of browser
+<br>- Browser version and language
+<br>- Operating system and interface
+<br>- Screen resolution
+<br>- Language settings
 <br>
 <br>This data is processed by Enterprise Singapore to ensure that our website
 is stable, safe and functional. We may also use cookies across our website
@@ -191,3 +193,6 @@ such use will constitute acceptance of the updated Privacy Statement.&nbsp;
 you have any enquiries or feedback on our Privacy Statement, data protection
 policies and procedures. You may also contact us if you need more information
 on, or access to, data that you had previously provided to Enterprise Singapore.</p>
+</li>
+</ul>
+<p></p>
