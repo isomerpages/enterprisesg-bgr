@@ -15,16 +15,16 @@ sections:
       key_highlights:
         - title: Global Ready Talent Programme
           description: ""
-          url: https://www.beglobalready.gov.sg/global-ready-talent-programme/
+          url: /global-ready-talent-programme/
         - title: Internship Opportunities
           description: ""
-          url: https://www.beglobalready.gov.sg/local-internships/
+          url: /local-internships/
         - title: Peer Testimonials
           description: ""
-          url: https://www.beglobalready.gov.sg/peer-testimonials/
+          url: /peer-testimonials/
         - title: Overseas Resources
           description: ""
-          url: https://www.beglobalready.gov.sg/overseas-resources/
+          url: /overseas-resources/
       variant: image
       backgroundColor: black
       size: sm
