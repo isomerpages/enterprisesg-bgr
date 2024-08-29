@@ -12,7 +12,6 @@ sections:
       title: Global Ready Talent Programme
       subtitle: Nurturing Local Ambitions for Global Aspirations
       background: /images/Slider4_e9af6a7fda28d6c82a93.png
-      url: https://www.beglobalready.gov.sg/global-ready-talent-programme/
       key_highlights:
         - title: Global Ready Talent Programme
           description: ""
@@ -30,7 +29,6 @@ sections:
       backgroundColor: black
       size: sm
       alignment: right
-      button: Company Login
   - textcards:
       title: Be a Global Ready Talent!
       id: textcards
