@@ -14,8 +14,11 @@ and open doors to bigger opportunities in your career.</p>
 <p>Our programme supports you in undertaking physical overseas internships
 in emerging markets to nurture your global aspirations.</p>
 <p>To qualify for the programme, you are to undertake physical overseas internships
-in emerging markets. The list of markets below is not supported by this
-programme:</p>
+in eligible overseas markets with a focus on Southeast Asia, India and
+China Emerging markets are also supported. You may refer to the list full
+list of eligible markets below.</p>
+<p><strong><u>Regional Markets</u></strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -25,95 +28,86 @@ programme:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Australia</p>
+<p>China includes:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Greece</p>
+<p>Cambodia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Norway</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Austria</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Iceland</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Portugal</p>
+<p>Myanmar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Belgium</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hong Kong</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ireland</p>
+<p>East Timor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>South Korea</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Canada</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Italy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Spain</p>
+<p>Philippines</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Denmark</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Macau</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Japan</p>
+<p>India</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sweden</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Finland</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Liechtenstein</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Switzerland</p>
+<p>Thailand</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>France</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Taiwan</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Netherlands</p>
+<p>Indonesia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>United Kingdom</p>
+<p>Vietnam</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Germany</p>
+<p>Brunei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>New Zealand</p>
+<p>Laos</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>United States of America</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malaysia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong><u>Emerging Markets</u></strong>
+</p>
 <p>As part of the overseas allowance, students will receive:</p>
 <ul data-tight="true" class="tight">
 <li>
