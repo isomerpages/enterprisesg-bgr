@@ -5,23 +5,21 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>General Terms and Conditions on the Use of the Isomer Pages Website</strong></h3>
-<h4><strong>General Legal Information</strong></h4>
-<p>Agreement – Terms
-<br>
-<br>All access to any area on our websites at Enterprise Singapore are governed
+<h4><strong>Agreement - Terms</strong></h4>
+<p>All access to any area on our websites at Enterprise Singapore are governed
 by the terms and conditions below ("Terms"). If you are not comfortable
 with any of these Terms, we would advise you to exit. Please continue only
 if you can accept these Terms.
 <br>
 <br>In these Terms, the words "we", "our" and "us" refers to Enterprise Singapore.
 <br>
-<br>Access to Enterprise Singapore
+<br><strong>Access to Enterprise Singapore </strong>
 <br>
 <br>The accessibility and operation of our website relies on technologies
 outside our control. We are not able to guarantee continuous accessibility
 or uninterrupted operation of our website.
 <br>
-<br>Relying on information
+<br><strong>Relying on information </strong>
 <br>
 <br>We provide our website as a general information source only. We do not
 guarantee and make no warranty or representation regarding the accuracy,
@@ -39,7 +37,7 @@ our website which has been reproduced, used, published or made available
 by third-parties, and you agree that your use of such content is at your
 sole risk.
 <br>
-<br>Security
+<br><strong>Security </strong>
 <br>
 <br>Where appropriate, we use available technology to protect the security
 of communications made through our website. Do note that we do not accept
@@ -50,8 +48,7 @@ by third parties. We will do our best but we cannot make any warranties
 that our website is free of infection by computer viruses or other unauthorised
 software.
 <br>
-<br>Hyperlinks on and/or to Enterprise Singapore's Website
-<br>
+<br><strong>Hyperlinks on and/or to Enterprise Singapore's Website <br></strong>
 <br>You agree not to hold us liable for the availability or content of any
 other Internet site (not provided by us) linked to or from our website.
 <br>
@@ -63,7 +60,7 @@ link or frame to our website, you do so at your own risk.
 <br>We reserve the right to object or disable any link or frame to or from
 our website.
 <br>
-<br>Restrictions on use of materials
+<br><strong>Restrictions on use of materials </strong>
 <br>
 <br>All content on this web site, including trade names, articles, texts,
 artwork, pictures, photographs, films, the Enterprise Singapore logo and
@@ -89,7 +86,7 @@ or otherwise deal with the software nor create derivative works from this
 web site or the materials thereon. Any unauthorised use of the web site
 or the materials thereon is strictly prohibited.
 <br>
-<br>Third party content
+<br><strong>Third party content </strong>
 <br>
 <br>Third party content may appear on the web site or may be accessible via
 links from the web site. Enterprise Singapore shall not be responsible
@@ -98,7 +95,7 @@ of law, defamation, libel, slander, omissions, falsehood or profanity in
 the statements, opinions, representations or any other form of content
 contained in any third party content appearing on the web site.
 <br>
-<br>Non-confidentiality
+<br><strong>Non-confidentiality </strong>
 <br>
 <br>You agree that all information and/or particulars sent or submitted by
 you to Enterprise Singapore in relation to the access of this web site
@@ -107,19 +104,19 @@ by you. You further undertake not to submit any information and/or other
 materials which are or may be offensive, illegal or which may not be lawfully
 disseminated under the laws of Singapore or any other relevant country.
 <br>
-<br>Modification to Terms and Conditions of Use
+<br><strong>Modification to Terms and Conditions of Use </strong>
 <br>
 <br>The Terms and Conditions set out here may be edited from time to time.
 Updated versions of the Terms and Conditions of Use will be posted on the
 web site and are effective immediately.
 <br>
-<br>Privacy
+<br><strong>Privacy </strong>
 <br>
 <br>Your use of the web site is subject to Enterprise Singapore’s Privacy
 Policy.
 <br>
 <br>
-<br>Registration on web site and e-services web sites
+<br><strong>Registration on web site and e-services web sites </strong>
 <br>
 <br>Information collected from our users may be used for various reasons.
 <br>
@@ -131,8 +128,7 @@ parties or purchase goods and services offered by third parties or offer
 goods and services to third parties on our sites, your information may
 be disclosed to and used by such third parties.
 <br>
-<br>Limitation of Liability from Third-Party Sites Utilising and/or Referencing
-Enterprise Singapore's Content
+<br><strong>Limitation of Liability from Third-Party Sites Utilising and/or Referencing Enterprise Singapore's Content </strong>
 <br>
 <br>We do not guarantee, and make no warranty or representation regarding
 the accuracy, completeness, or reliability of the content provided on our
