@@ -29,6 +29,8 @@ sections:
       backgroundColor: black
       size: sm
       alignment: right
+      button: Login here
+      url: https://login.beglobalready.gov.sg/
   - textcards:
       title: Be a Global Ready Talent!
       id: textcards
