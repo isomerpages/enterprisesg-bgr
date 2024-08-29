@@ -39,7 +39,7 @@ sections:
           linktext: Start your search here
           url: https://www.beglobalready.gov.sg/good-company-report/
         - title: Kickstart your journey
-          description: xxx
+          description: Understand how you can secure opportunities to gain real experience
           linktext: Start your journey here
           url: /internship-process/
 ---
