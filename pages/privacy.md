@@ -28,7 +28,7 @@ of those sites.
 <br>
 <br>1. Personal Data Processed by Enterprise Singapore
 <br>
-<br>1.1 Browsing Our Website
+<br><u>1.1 Browsing Our Website </u>
 <br>
 <br>When you browse the Enterprise Singapore website, your browser provides
 us with the necessary data for the website to be displayed. Such data includes:
@@ -51,7 +51,7 @@ is stable, safe and functional. We may also use cookies across our website
 to improve your user experience. You may enable or disable cookies under
 your settings.
 <br>
-<br>1.2 Tracking Cookies on Our Website
+<br><u>1.2 Tracking Cookies on Our Website </u>
 <br>
 <br>Google Ads - Enterprise Singapore uses the Google Ads and Remarketing
 Lists features of Google Analytics for Display Advertising. Both Enterprise
@@ -72,7 +72,7 @@ is stored by Facebook and may be used for its own promotional purposes,
 in accordance with Facebook’s Data Usage Policy. A cookie may also be stored
 on your computer. You can change your ad settings on Facebook.&nbsp;
 <br>
-<br>1.3 Contacting Enterprise Singapore/Providing Feedback
+<br><u>1.3 Contacting Enterprise Singapore/Providing Feedback </u>
 <br>
 <br>When you contact Enterprise Singapore or provide feedback on our website,
 we may collect your Personal Data. Such Personal Data may include your
@@ -89,7 +89,7 @@ Government agencies, this might be auto-populated. This saves you the trouble
 of repeating previous submissions. If the data is out of date, please update
 it. We will retain your Personal Data where necessary to serve you effectively.
 <br>
-<br>1.4 Newsletter Subscription
+<br><u>1.4 Newsletter Subscription </u>
 <br>
 <br>When you subscribe to Enterprise Singapore’s newsletter via our website,
 we may collect and process the Personal Data you provide so that we can
@@ -99,13 +99,13 @@ send you relevant news updates.
 of our mailing list by clicking the unsubscribe button at the bottom of
 our newsletter.
 <br>
-<br>1.5 Registration of Interest
+<br><u>1.5 Registration of Interest </u>
 <br>
 <br>When you register your interest with Enterprise Singapore and complete
 forms on our website, we may collect and process your Personal Data in
 order to serve you more effectively.
 <br>
-<br>1.6 e-Alerts Standards Subscription Form
+<br><u>1.6 e-Alerts Standards Subscription Form </u>
 <br>
 <br>When you fill in the e-Alerts Standards Subscription Form and submit it
 to Enterprise Singapore, we and our appointed vendor may collect and process
@@ -113,20 +113,20 @@ your Personal Data in order to send you the latest news updates (including
 but not limited to standards, sales promotions, and invitations to events
 for the public relating to commentary on our standards).&nbsp;&nbsp;
 <br>
-<br>1.7 New User Registration on Enterprise Singapore’s Incentive Portal
+<br><u>1.7 New User Registration on Enterprise Singapore’s Incentive Portal </u>
 <br>
 <br>When you fill in the New User Registration form and submit it to Enterprise
 Singapore, we may collect and process your Personal Data in order to provide
 you with access to the Enterprise Singapore Incentive Portal.&nbsp;
 <br>
-<br>1.8 Whistle-Blowing
+<br><u>1.8 Whistle-Blowing </u>
 <br>
 <br>We may process your Personal Data if you raise any concerns under our
 Whistle-Blowing Framework in order to report possible improprieties (e.g.
 fraud, corrupt conduct, questionable practices, or adverse behavior) involving
 Enterprise Singapore employees and/or our business partners.&nbsp;&nbsp;
 <br>
-<br>1.9 Social Media
+<br><u>1.9 Social Media </u>
 <br>
 <br>If you follow Enterprise Singapore on social media networks or public
 forum accounts (e.g. Instagram, Facebook, LinkedIn, Twitter), your social
