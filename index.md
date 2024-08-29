@@ -30,6 +30,7 @@ sections:
       backgroundColor: black
       size: sm
       alignment: right
+      button: Company Login
   - textcards:
       title: Be a Global Ready Talent!
       id: textcards
