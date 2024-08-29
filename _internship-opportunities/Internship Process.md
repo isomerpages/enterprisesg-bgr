@@ -30,7 +30,7 @@ student when the company's internship placement application has been approved.</
 <p><strong><u>For overseas internships</u></strong>
 </p>
 <p>A student who onboards the Global Ready Talent Programme and interns overseas
-physically is expected to complete a mandatory internship feedback on your
+physically is expected to complete a mandatory internship feedback on the
 internship experience. The internship feedback form can be accessed via
 <a href="https://form.gov.sg/60a790d4b8a63000112cd90f" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>.</p>
 <p></p>
@@ -40,5 +40,5 @@ with your educational institution for the deliverables to be submitted
 as part of internship fulfilment.</p>
 <h4>To Apply</h4>
 <p>Approach the career centre of your educational institution to find out
-how you can secure an internship.</p>
+the process to secure an internship.</p>
 <p></p>
