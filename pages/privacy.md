@@ -3,8 +3,6 @@ title: Privacy Statement
 permalink: /privacy/
 variant: tiptap
 ---
-<ul data-tight="true" class="tight">
-<li>
 <p>This is a Government of Singapore website.
 <br>
 <br>When you visit this website, Enterprise Singapore may collect, handle
@@ -193,6 +191,4 @@ such use will constitute acceptance of the updated Privacy Statement.&nbsp;
 you have any enquiries or feedback on our Privacy Statement, data protection
 policies and procedures. You may also contact us if you need more information
 on, or access to, data that you had previously provided to Enterprise Singapore.</p>
-</li>
-</ul>
 <p></p>
