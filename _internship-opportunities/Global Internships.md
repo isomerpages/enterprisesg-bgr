@@ -32,9 +32,11 @@ list of eligible markets below.</p>
 <p><strong><u>Emerging Markets</u></strong>
 </p>
 <p></p>
-<p></p>
+<p>The Global Ready Talent Programme will <u>not</u> support any overseas programmes
+to <u>developed markets</u> such as Western Europe, North America and developed
+Asia Pacific.</p>
 <p>For more information on ongoing global programmes available to you, click
-<a href="https://staging.d8cu29s1ycaje.amplifyapp.com/ongoing-global-programmes/" rel="noopener noreferrer nofollow" target="_blank">here</a>. You may also speak to your respective Institutes of Higher Learning
+<a href="https://staging.d8cu29s1ycaje.amplifyapp.com/ongoing-global-programmes/" rel="noopener noreferrer nofollow" target="_blank">here</a>. You may also speak to your respective educational institutions
 on your eligibility for funding support under GRT.</p>
 <p>As always, we encourage students to do their due diligence before embarking
 on internships.</p>
