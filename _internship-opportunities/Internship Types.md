@@ -5,23 +5,21 @@ variant: tiptap
 description: ""
 ---
 <p>Here is the summary of eligible internship types and support available
-under the Global Ready Talent Programme.</p>
+for you under the Global Ready Talent Programme.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Summary_Table_of_Internships.png">
 </div>
 <p></p>
 <h4>Local Internships in Singapore Enterprises</h4>
-<p>For internships in Singapore enterprises, Enterprise Singapore, together
-with Trade Associations and Institutes of Higher Learning will facilitate
-internship placements of students in qualified Singapore enterprises who
-have been carefully screened and evaluated by Trade Associations to ensure
-a rewarding learning experience. More information on opportunities available
-will be disseminated to students via their respective Institutes of Higher
-Learning.</p>
-<p></p>
-<p>Through this programme, you will receive a minimum monthly internship
-stipend of:</p>
+<p>For local internships in Singapore enterprises, Enterprise Singapore,
+together with Trade Associations and educational institutions, will facilitate
+internship placements in qualified Singapore enterprises who have been
+carefully screened and evaluated by Trade Associations to ensure a rewarding
+learning experience for you. More information on opportunities available
+will be disseminated via the respective educational institutions.</p>
+<p>Under this programme, you will receive via the qualified Singapore company,
+a minimum monthly internship stipend of:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>S$800 for NITEC/Higher NITEC and diploma students</strong>
