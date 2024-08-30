@@ -5,18 +5,14 @@ variant: tiptap
 description: ""
 ---
 <h2>Internship Process</h2>
-<h4>Internship Types</h4>
-<p>Here is the summary of internship types and support available under the
-Global Ready Talent Programme:</p>
-<p></p>
-<h4>Internship Process Flow</h4>
+<h4>Process Flow</h4>
 <p>This is the expected process flow for every internship. Do take note to
 abide by the timeframe.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_13_174028.png">
 </div>
-<h4>Internship Deliverables</h4>
+<h4>Deliverables</h4>
 <p><strong><u>For local internships</u></strong>
 </p>
 <p>A student who interns in Singapore with a local SME applying for Global
