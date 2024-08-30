@@ -43,4 +43,14 @@ sections:
           description: Understand how you can secure opportunities to gain real experience
           linktext: Start your journey here
           url: /internship-process/
+  - infopic:
+      title: Overseas Resources
+      subtitle: Living and working Overseas
+      id: infopic
+      description: Wonder what it's like living and working in Asia, China and India?
+        Here's where you cna find our more.
+      button: Click here
+      url: /overseas-resources/
+      image: /images/OverseasResourceBanner.png
+      alt: Image alt text
 ---
