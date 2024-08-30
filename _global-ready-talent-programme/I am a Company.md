@@ -7,11 +7,10 @@ description: ""
 <h2>I am a Company</h2>
 <p>This programme will support enterprises that are keen to build their talent
 pipeline to support business expansion plans. Enterprise Singapore, together
-with Trade Associations and Institutes of Higher Learning partners, facilitate
-internship placements in Singapore enterprises. Qualified Singapore enterprises
-will be evaluated by TACs to be placed on-board the programme, while the
-Institutes of Higher Learning will drive student participation towards
-Singapore enterprises.</p>
+with Trade Associations and educational institutions, supports internship
+placements in Singapore enterprises. Qualified Singapore enterprises will
+be evaluated by TACs to be placed on-board the programme, while the educational
+institutions will drive student participation towards Singapore enterprises.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
