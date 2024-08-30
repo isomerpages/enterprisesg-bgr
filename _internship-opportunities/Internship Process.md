@@ -9,9 +9,6 @@ description: ""
 <p>Here is the summary of internship types and support available under the
 Global Ready Talent Programme:</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_15_090732.png">
-</div>
 <h4>Internship Process Flow</h4>
 <p>This is the expected process flow for every internship. Do take note to
 abide by the timeframe.</p>
