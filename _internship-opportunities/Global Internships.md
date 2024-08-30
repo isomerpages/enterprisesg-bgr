@@ -4,8 +4,19 @@ permalink: /global-internships/
 variant: tiptap
 description: ""
 ---
-<h2>Global Internships in Overseas Markets</h2>
+<h2>Internships Types</h2>
+<h4>Internship Types</h4>
+<p>Here is the summary of internship types and support available under the
+Global Ready Talent Programme:</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Summary_Table_of_Internships.png">
+</div>
+<p></p>
+<p></p>
+<h4>Local Internships</h4>
+<p></p>
+<h4>Overseas Internships</h4>
 <p>Embarking on an overseas attachment or internship is a great opportunity
 to expand your horizons, immerse yourself in another culture, and gain
 invaluable work experience. In today’s globally connected world, overseas
