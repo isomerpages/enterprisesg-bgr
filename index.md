@@ -22,9 +22,6 @@ sections:
         - title: Peer Testimonials
           description: ""
           url: /peer-testimonials/
-        - title: Overseas Resources
-          description: ""
-          url: /overseas-resources/
       variant: image
       backgroundColor: black
       size: sm
