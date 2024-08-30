@@ -4,8 +4,8 @@ permalink: /internship-types/
 variant: tiptap
 description: ""
 ---
-<p>Here is the summary of internship types and support available under the
-Global Ready Talent Programme:</p>
+<p>Here is the summary of eligible internship types and support available
+under the Global Ready Talent Programme.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Summary_Table_of_Internships.png">
