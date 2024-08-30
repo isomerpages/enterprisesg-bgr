@@ -18,7 +18,7 @@ sections:
           url: /global-ready-talent-programme/
         - title: Internship Opportunities
           description: ""
-          url: /local-internships/
+          url: /internship-types/
         - title: Peer Testimonials
           description: ""
           url: /peer-testimonials/
