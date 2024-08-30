@@ -4,9 +4,9 @@ permalink: /ongoing-internship-programmes/
 variant: tiptap
 description: ""
 ---
-<p>View current overseas internships and work experiences that are currently
-being run.</p>
-<p>Please note that the list below is non-exhaustive, do <strong>contact your respective Institutes of Higher Learning </strong>for
+<p>Here are the current overseas internships and work experiences that are
+currently being run.</p>
+<p>Please note that the list below is non-exhaustive, do <strong>contact your respective educational institutions </strong>for
 more information and the full range of opportunities available.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
