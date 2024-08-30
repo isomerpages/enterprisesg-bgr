@@ -4,7 +4,6 @@ permalink: /peer-testimonials/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Hear from our alumni</strong></h2>
 <h4><strong>Overseas Experiences</strong></h4>
 <p></p>
 <p></p>
