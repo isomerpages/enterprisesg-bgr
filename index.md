@@ -51,6 +51,6 @@ sections:
         Here's where you cna find our more.
       button: Click here
       url: /overseas-resources/
-      image: /images/OverseasResourceBanner.png
+      image: /images/OverseasResourceBanner_shortened.jpg
       alt: Image alt text
 ---
