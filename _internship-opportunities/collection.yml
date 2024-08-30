@@ -2,7 +2,6 @@ collections:
   internship-opportunities:
     output: true
     order:
-      - Local Internships.md
       - Internship Types.md
       - Ongoing Global Programmes.md
       - Internship Process.md
