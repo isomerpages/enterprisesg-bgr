@@ -4,7 +4,6 @@ permalink: /internship-process/
 variant: tiptap
 description: ""
 ---
-<h2>Internship Process</h2>
 <h4>Process Flow</h4>
 <p>This is the expected process flow for every internship. Do take note to
 abide by the timeframe.</p>
