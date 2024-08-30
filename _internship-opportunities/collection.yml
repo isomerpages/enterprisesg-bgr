@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Local Internships.md
-      - Global Internships.md
+      - Internship Types.md
       - Ongoing Global Programmes.md
       - Internship Process.md
