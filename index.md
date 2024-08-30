@@ -48,7 +48,7 @@ sections:
       subtitle: Living and working Overseas
       id: infopic
       description: Wonder what it's like living and working in Asia, China and India?
-        Here's where you cna find our more.
+        Here's where you can find out more.
       button: Click here
       url: /overseas-resources/
       image: /images/OverseasResourceBanner_shortened.jpg
