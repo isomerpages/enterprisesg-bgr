@@ -12,16 +12,6 @@ sections:
       title: Global Ready Talent Programme
       subtitle: Nurturing Local Ambitions for Global Aspirations
       background: /images/Slider4_e9af6a7fda28d6c82a93.png
-      key_highlights:
-        - title: Global Ready Talent Programme
-          description: ""
-          url: /global-ready-talent-programme/
-        - title: Internship Opportunities
-          description: ""
-          url: /internship-types/
-        - title: Peer Testimonials
-          description: ""
-          url: /peer-testimonials/
       variant: image
       backgroundColor: black
       size: sm
