@@ -2,6 +2,7 @@ collections:
   global-ready-talent-programme:
     output: true
     order:
+      - Global Ready Talent Programme.md
       - About the Programme.md
       - I am a Student.md
       - I am a Company.md
