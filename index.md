@@ -16,28 +16,33 @@ sections:
       backgroundColor: black
       size: sm
       alignment: right
-      button: Login here
+      button: Find out more
       url: https://login.beglobalready.gov.sg/
   - textcards:
       title: Be a Global Ready Talent!
       id: textcards
       cards:
-        - title: Find good employers
-          description: Uncover fast-growing local SMEs great to launch your dream career
-          linktext: Start your search here
+        - title: Good Company Report
+          description: Learn about fast-growing Singapore Enterprises and the
+            opportunities they offer
+          linktext: Click here
           url: /good-company-report/
-        - title: Kickstart your journey
-          description: Understand how you can secure opportunities to gain real experience
+        - title: Overseas Internship
+          description: Explore how we support you to be a global citizen
           linktext: Start your journey here
           url: /internship-process/
+        - title: Local internship
+          description: Find out details about our local internship programme
+          linktext: Learn more
+          url: /local-internship/
   - infopic:
-      title: Overseas Resources
-      subtitle: Living and working Overseas
+      title: Testimonials
+      subtitle: Hear from your peers
       id: infopic
       description: Wonder what it's like living and working in Southeast Asia, China
-        and India? Here's where you can find out more.
+        and India? Here's where you can hear more from your peers.
       button: Click here
-      url: /overseas-resources/
-      image: /images/OverseasResourceBanner_shortened.jpg
+      url: /testimonials/
+      image: /images/download.jpg
       alt: Image alt text
 ---
