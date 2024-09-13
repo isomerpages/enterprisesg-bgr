@@ -2,14 +2,14 @@ logo: /images/isomer-logo.svg
 links:
   - title: Global Ready Talent Programme
     collection: global-ready-talent-programme
-  - title: Internship Opportunities
+  - title: Local Internships
+    url: /overseas-resources/
+  - title: Overseas Internships
     collection: internship-opportunities
   - title: Good Company Report
     collection: good-company-report
   - title: Peer Testimonials
     url: /peer-testimonials/
-  - title: Overseas Resources
-    url: /overseas-resources/
   - title: Contact Us
     url: /contact-us/
   - title: Login
