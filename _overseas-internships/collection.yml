@@ -1,5 +1,5 @@
 collections:
-  internship-opportunities:
+  overseas-internships:
     output: true
     order:
       - Internship Types.md
