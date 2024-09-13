@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - About the programme.md
-      - About the Programme.md
       - I am a Student.md
       - I am a Company.md
