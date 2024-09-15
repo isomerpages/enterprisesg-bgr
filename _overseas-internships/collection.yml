@@ -2,7 +2,7 @@ collections:
   overseas-internships:
     output: true
     order:
-      - Overseas Resources.md
       - Internship Types.md
+      - Overseas Resources.md
       - Ongoing Internship Programmes.md
       - Internship Process.md
