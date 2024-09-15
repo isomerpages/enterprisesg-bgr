@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - About Overseas Internships.md
-      - Internship Types.md
       - Overseas Resources.md
       - Internship Process.md
