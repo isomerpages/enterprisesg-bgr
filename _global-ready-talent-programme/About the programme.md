@@ -74,4 +74,11 @@ for you under the Global Ready Talent Programme.</p>
 <p>LASALLE College of the Arts (Local internships only)</p>
 </li>
 </ul>
+<h2>Process flow </h2>
+<p>This is the expected process flow for every GRT supported internship.
+Do take note to abide by the timeframe.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_13_174028.png">
+</div>
 <p></p>
