@@ -30,7 +30,7 @@ sections:
         - title: Local internship
           description: Find out details about our local internship programme
           linktext: Learn more
-          url: /local-internship/
+          url: /local-internships/
         - title: Overseas Internship
           description: Explore how we support you to be a global citizen
           linktext: Start your journey here
