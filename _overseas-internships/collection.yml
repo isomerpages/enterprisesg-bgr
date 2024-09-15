@@ -2,5 +2,6 @@ collections:
   overseas-internships:
     output: true
     order:
+      - Eligible Markets.md
       - About Overseas Internships.md
       - Overseas Resources.md
