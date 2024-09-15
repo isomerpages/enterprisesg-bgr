@@ -11,8 +11,8 @@ invaluable work experience. In today’s globally connected world, overseas
 work exposure can enrich your student experience, cultivate personal growth,
 and open doors to bigger opportunities in your career.</p>
 <p>Our programme supports you in undertaking physical overseas internships
-in emerging markets to nurture your global aspirations.</p>
-<p>As part of the overseas allowance, students will receive:</p>
+in emerging markets to nurture your global aspirations. As part of the
+overseas allowance, students will receive:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>a one-time travel allowance of S$1200, and</p>
