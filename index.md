@@ -27,14 +27,14 @@ sections:
             opportunities they offer
           linktext: Click here
           url: /good-company-report/
-        - title: Overseas Internship
-          description: Explore how we support you to be a global citizen
-          linktext: Start your journey here
-          url: /internship-process/
         - title: Local internship
           description: Find out details about our local internship programme
           linktext: Learn more
           url: /local-internship/
+        - title: Overseas Internship
+          description: Explore how we support you to be a global citizen
+          linktext: Start your journey here
+          url: /about-overseas-internships/
   - infopic:
       title: Testimonials
       subtitle: Hear from your peers
