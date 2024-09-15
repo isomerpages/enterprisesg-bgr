@@ -24,7 +24,7 @@ in emerging markets to nurture your global aspirations.</p>
 <p>To qualify for the programme, you are to undertake physical overseas internships
 in eligible overseas markets with a focus on Southeast Asia, India and
 China Emerging markets are also supported. You may refer to the list full
-list of eligible markets here.</p>
+list of eligible markets <a href="https://www.beglobalready.gov.sg/eligible-markets/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>For more information you may speak to your respective educational institutions
 on your eligibility for funding support under GRT.</p>
 <p>As always, we encourage students to do their due diligence before embarking
