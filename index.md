@@ -43,6 +43,6 @@ sections:
         and India? Here's where you can hear more from your peers.
       button: Click here
       url: /testimonials/
-      image: /images/download.jpg
+      image: /images/Screenshot_2024_09_16_174649.png
       alt: Image alt text
 ---
