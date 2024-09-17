@@ -2,19 +2,19 @@ title: Global Ready Talent Programme
 url: https://www.beglobalready.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#d91218"
+  secondary-color: "#302f31"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#fb433d"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#f57262"
     - title: media-color-three
-      color: "#00838f"
+      color: "#f9b09f"
     - title: media-color-four
-      color: "#00838f"
+      color: "#5c5c5c"
     - title: media-color-five
-      color: "#00838f"
+      color: "#b9b9b9"
 description: A portal for young talents to access global opportunities with
   Singapore enterprises to experience diverse work cultures, build global
   networks, and gain a competitive edge.
