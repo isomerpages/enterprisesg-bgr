@@ -11,7 +11,7 @@ sections:
   - hero:
       title: Global Ready Talent Programme
       subtitle: Nurturing Local Ambitions for Global Aspirations
-      background: /images/Slider4_e9af6a7fda28d6c82a93.png
+      background: /images/Slider4.png
       variant: image
       backgroundColor: black
       size: sm
