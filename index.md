@@ -10,14 +10,13 @@ notification: ""
 sections:
   - hero:
       title: Global Ready Talent Programme
-      subtitle: Nurturing Local Ambitions for Global Aspirations
-      background: /images/Slider4.png
-      variant: image
+      background: /images/SuccessStoriesBanner2.png
+      variant: center
       backgroundColor: black
       size: sm
       alignment: right
       button: Find out more
-      url: https://login.beglobalready.gov.sg/
+      url: /global-ready-talent-programme/
   - textcards:
       title: Be a Global Ready Talent!
       id: textcards
