@@ -3,10 +3,10 @@ url: https://www.beglobalready.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#d91218"
-  secondary-color: "#302f31"
+  secondary-color: "#fb433d"
   media-colors:
     - title: media-color-one
-      color: "#fb433d"
+      color: "#302f31"
     - title: media-color-two
       color: "#f57262"
     - title: media-color-three
