@@ -62,7 +62,7 @@ for you under the Global Ready Talent Programme.</p>
 <p>Singapore University of Technology and Design</p>
 </li>
 <li>
-<p>University of the Arts Singapore (Local internships only)</p>
+<p>LASALLE College of the Arts (Local internships only)</p>
 </li>
 <li>
 <p>Nanyang Academy of Fine Arts (Local internships only)</p>
@@ -71,7 +71,7 @@ for you under the Global Ready Talent Programme.</p>
 <p>SIM Global Education (Local internships only)</p>
 </li>
 <li>
-<p>LASALLE College of the Arts (Local internships only)</p>
+<p>University of the Arts Singapore (Local internships only)</p>
 </li>
 </ul>
 <h2>Process flow</h2>
