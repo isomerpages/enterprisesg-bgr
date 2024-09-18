@@ -238,5 +238,5 @@ description: ""
 </details>
 </div>
 <p>The Global Ready Talent Programme will <u>not</u> support any overseas programmes
-to <u>developed markets</u> such as Western Europe, North America and developed
+to developed markets such as Western Europe, North America and developed
 Asia Pacific.</p>
