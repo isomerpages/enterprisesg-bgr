@@ -2,7 +2,6 @@ collections:
   overseas-internships:
     output: true
     order:
-      - Overseas Internships/About Local Internships.md
       - Overseas Internships/Overseas Resources.md
       - Overseas Internships/Eligible Markets.md
       - Overseas Internships/About Overseas Internships.md
