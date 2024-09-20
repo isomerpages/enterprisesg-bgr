@@ -2,7 +2,7 @@ collections:
   internships:
     output: true
     order:
-      - About Local Internships.md
+      - Local Internships.md
       - Overseas Internships/Overseas Resources.md
       - Overseas Internships/Eligible Markets.md
       - Overseas Internships/About Overseas Internships.md
