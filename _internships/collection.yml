@@ -1,5 +1,5 @@
 collections:
-  overseas-internships:
+  internships:
     output: true
     order:
       - About Local Internships.md
