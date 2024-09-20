@@ -77,8 +77,7 @@ for you under the Global Ready Talent Programme.</p>
 <h2>Process flow</h2>
 <p>This is the expected process flow for every GRT supported internship.
 Do take note to abide by the timeframe.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_13_174028.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Internship_timeline_isomer.png">
 </div>
 <p></p>
