@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Overseas Internships/.keep
-      - About Overseas Internships.md
       - Eligible Markets.md
       - Overseas Resources.md
