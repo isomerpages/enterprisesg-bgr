@@ -6,13 +6,15 @@ description: ""
 ---
 <p></p>
 <h2>Global Ready Talent Programme</h2>
-<p>Learning does not have to be confined only to the classroom. Our Global
-Ready Talent Programme offers <strong>young talents</strong> access to local
-and overseas internships in promising Singapore and international enterprises.</p>
-<p>If you are looking for exposure to diverse work cultures, building global
-networks, and gaining a competitive edge, this programme is for you! It
-presents internship opportunities for you to be mentored to support global
-business expansion plans and navigate challenges in international markets.</p>
+<p>Learning does not have to be confined only to the classroom.The Global
+Ready Talent Programme(GRT) offers <strong>young talents</strong> access
+to local and overseas internships promising Singapore and international
+enterprises.</p>
+<p>If you are looking for a promising company with a dynamic work culture
+that enables you to build global networks, gain in-market business insights
+and become a future-ready leader,this programme is for you! It presents
+internship opportunities for you to be mentored to support global business
+expansion plans and navigate challenges in international markets.</p>
 <p>Here is the summary of eligible internship types and support available
 for you under the Global Ready Talent Programme.</p>
 <p></p>
