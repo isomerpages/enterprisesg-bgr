@@ -6,7 +6,7 @@ description: ""
 ---
 <h4>Local Internships in Singapore Enterprises</h4>
 <p>For local internships, EnterpriseSG, together with Trade Associations
-and Chambers (TACs) and Institutes of Higher Learning (IHL), will facilitate
+and Chambers (TACs) and Institutes of Higher Learning (IHLs), will facilitate
 internship placements in qualified Singapore Enterprises who have been
 carefully screened and evaluated by TACs to ensure a rewarding learning
 experience for you. You can obtain further details about ongoing programs
