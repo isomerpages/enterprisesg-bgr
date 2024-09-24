@@ -238,6 +238,5 @@ third_nav_title: Overseas Internships
 </div>
 </details>
 </div>
-<p>The Global Ready Talent Programme will <u>not</u> support any overseas programmes
-to developed markets such as Western Europe, North America and developed
-Asia Pacific.</p>
+<p>The GRT Programme will <u>not</u> support any overseas programmes to developed
+markets such as Western Europe, North America and developed Asia Pacific.</p>
