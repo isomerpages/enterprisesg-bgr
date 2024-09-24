@@ -7,7 +7,7 @@ description: ""
 <p></p>
 <h2>Global Ready Talent Programme</h2>
 <p>Learning does not have to be confined only to the classroom. The Global
-Ready Talent Programme(GRT) offers <strong>young talents</strong> access
+Ready Talent Programme (GRT Programme) offers <strong>young talents</strong> access
 to local and overseas internships promising Singapore and international
 enterprises.</p>
 <p>If you are looking for a promising company with a dynamic work culture
