@@ -26,15 +26,14 @@ overseas allowance, students will receive:</p>
 in eligible overseas markets with a focus on Southeast Asia, India and
 China Emerging markets are also supported. You may refer to the list full
 list of eligible markets <a href="https://www.beglobalready.gov.sg/eligible-markets/" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p>For more information you may speak to your respective educational institutions
-on your eligibility for funding support under GRT.</p>
+<p>For more information you may speak to your respective Institutes of higher
+learning (IHLs) on your eligibility for funding support under the GRT Programme.</p>
 <p>As always, we encourage students to do their due diligence before embarking
 on internships.</p>
 <h4>Deliverables</h4>
-<p>A student who onboards the Global Ready Talent Programme and interns overseas
-physically is expected to complete a mandatory internship feedback on the
-internship experience. The internship feedback form can be accessed via
-<a href="https://form.gov.sg/60a790d4b8a63000112cd90f" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>.</p>
+<p>A student who onboards the GRT Programme and interns overseas physically
+is expected to complete a mandatory internship feedback on the internship
+experience. The internship feedback form can be accessed via <a href="https://form.gov.sg/60a790d4b8a63000112cd90f" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>.</p>
 <p>Your respective IHLs may also require you to submit other deliverables.
 As such, be sure to check with your IHLs for the deliverables to be submitted
 as part of internship fulfilment.</p>
