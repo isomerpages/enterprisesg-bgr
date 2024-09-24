@@ -12,10 +12,9 @@ to launch your dream career.</p>
 Ann Polytechnic, Singapore Polytechnic, and Temasek Polytechnic who storyboarded,
 directed, and produced a series of short films to capture what goes on
 behind-the-scenes with their peers at these good local companies.</p>
-<p>Also, are you looking for an opportunity to kickstart your global career?
-Excited to join a local company in establishing its footprint overseas?
-Check out these Singapore Global Executive Programme (SGEP) companies from
-our past edition that may interest you too.</p>
+<p>If you are looking for an opportunity to kickstart your global career
+and are excited to join a local company in establishing its footprint overseas,
+check out these Singapore Global Executive Programme (SGEP) companies!</p>
 <p>Note: SGEP is an exclusive talent development programme developed by Enterprise
 Singapore in partnership with high-growth local companies that possess
 global ambitions to build a strong pipeline of local young talent within
