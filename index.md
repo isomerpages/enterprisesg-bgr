@@ -18,7 +18,7 @@ sections:
       button: Find out more
       url: /global-ready-talent-programme/
   - textcards:
-      title: Be a Global Ready Talent!
+      title: Global Ready Talent Programme
       id: textcards
       cards:
         - title: Good Company Report
@@ -26,12 +26,14 @@ sections:
             opportunities they offer
           linktext: Click here
           url: /good-company-report/
-        - title: Local internship
-          description: Find out details about our local internship programme
+        - title: Local internships
+          description: For future-ready students seeking internship opportunities in
+            Singapore
           linktext: Learn more
           url: /local-internships/
         - title: Overseas Internship
-          description: Explore how we support you to be a global citizen
+          description: For global-minded students looking to explore internship
+            opportunities overseas
           linktext: Start your journey here
           url: /about-overseas-internships/
   - infopic:
