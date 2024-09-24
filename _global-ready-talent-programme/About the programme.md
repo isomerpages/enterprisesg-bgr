@@ -16,7 +16,7 @@ and become a future-ready leader,this programme is for you! It presents
 internship opportunities for you to be mentored to support global business
 expansion plans and navigate challenges in international markets.</p>
 <p>Here is the summary of eligible internship types and support available
-for you under the Global Ready Talent Programme.</p>
+for you under the GRT Programme.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Summary_Table_of_Internships.png">
@@ -77,7 +77,7 @@ for you under the Global Ready Talent Programme.</p>
 </li>
 </ul>
 <h2>Process flow</h2>
-<p>This is the expected process flow for every GRT supported internship.
+<p>This is the expected process flow for every GRT Programme supported internship.
 Do take note to abide by the timeframe.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Internship_timeline_isomer.png">
