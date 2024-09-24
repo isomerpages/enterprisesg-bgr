@@ -25,11 +25,10 @@ a minimum monthly internship stipend of:</p>
 </ul>
 <h4>Deliverables</h4>
 <p>A student who interns in Singapore with a Singapore Enterprise applying
-for Global Ready Talent Programme funding is expected to complete mandatory
-internship feedback to EnterpriseSG as soon as the internship ends. This
-will be done via a unique link which will be provided in an email confirmation
-to the student when the company's internship placement application has
-been approved.</p>
+for GRT Programme funding is expected to complete mandatory internship
+feedback to EnterpriseSG as soon as the internship ends. This will be done
+via a unique link which will be provided in an email confirmation to the
+student when the company's internship placement application has been approved.</p>
 <h4>To Apply</h4>
 <p>Approach the career centre of your IHLs to find out the process to secure
 an internship.</p>
