@@ -156,7 +156,7 @@ You may withdraw consent for your Personal Data to be processed at any
 time, without affecting any data processing activities that might have
 taken place before you withdrew consent and without affecting any other
 existing legal justification of the data processing activities. To exercise
-the above rights, please email Enterprise Singapore at <a rel="noopener noreferrer nofollow" target="_blank">marketing@enterprisesg.gov.sg</a>.
+the above rights, please email Enterprise Singapore at <a href="mailto:marketing@enterprisesg.gov.sg" rel="noopener noreferrer nofollow" target="_blank">marketing@enterprisesg.gov.sg</a>.
 <br>
 <br>5. Cookies on Enterprise Singapore’s website
 <br>
@@ -187,7 +187,7 @@ such use will constitute acceptance of the updated Privacy Statement.&nbsp;
 <br>
 <br>7. Contact Us
 <br>
-<br>7.1 Please contact Enterprise Singapore at <a rel="noopener noreferrer nofollow" target="_blank">marketing@enterprisesg.gov.sg</a> if
+<br>7.1 Please contact Enterprise Singapore at <a href="mailto:marketing@enterprisesg.gov.sg" rel="noopener noreferrer nofollow" target="_blank">marketing@enterprisesg.gov.sg</a> if
 you have any enquiries or feedback on our Privacy Statement, data protection
 policies and procedures. You may also contact us if you need more information
 on, or access to, data that you had previously provided to Enterprise Singapore.</p>
