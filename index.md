@@ -35,7 +35,7 @@ sections:
           description: For global-minded students looking to explore internship
             opportunities overseas
           linktext: Start your journey here
-          url: /about-overseas-internships/
+          url: /internships/overseas-internships/about-overseas-internships/
   - infopic:
       title: Testimonials
       subtitle: Hear from your peers
