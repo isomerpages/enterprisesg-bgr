@@ -30,7 +30,7 @@ sections:
           description: For future-ready students seeking internship opportunities in
             Singapore
           linktext: Learn more
-          url: /local-internships/
+          url: /internships/local-internships/
         - title: Overseas Internship
           description: For global-minded students looking to explore internship
             opportunities overseas
