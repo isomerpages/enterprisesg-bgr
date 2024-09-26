@@ -1,0 +1,22 @@
+collections:
+  good-company-report:
+    output: true
+    order:
+      - Good Company Report.md
+      - 2024/.keep
+      - 2024/Carousell Group.md
+      - 2024/Dyna Mac.md
+      - 2024/Hegen.md
+      - 2024/Keystone Cable.md
+      - 2024/Meinhardt.md
+      - 2024/Mlion Corporation.md
+      - 2024/Nium.md
+      - 2024/Training Vision Institute.md
+      - 2023/.keep
+      - 2023/Castlery.md
+      - 2023/Commonwealth Capital Group.md
+      - 2023/Kobe Global Technologies.md
+      - 2023/Maha Chemicals.md
+      - 2023/Prime Structures Engineering.md
+      - 2023/Sing Fuels.md
+      - 2023/Training Vision Institute.md

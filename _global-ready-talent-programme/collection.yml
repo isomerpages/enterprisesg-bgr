@@ -1,0 +1,5 @@
+collections:
+  global-ready-talent-programme:
+    output: true
+    order:
+      - About the programme.md

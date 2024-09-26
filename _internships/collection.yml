@@ -1,0 +1,9 @@
+collections:
+  internships:
+    output: true
+    order:
+      - Local Internships.md
+      - Overseas Internships/.keep
+      - Overseas Internships/About Overseas Internships.md
+      - Overseas Internships/Eligible Markets.md
+      - Overseas Internships/Overseas Resources.md

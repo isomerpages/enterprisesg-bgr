@@ -1,32 +1,49 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Global Ready Talent Programme
+description: A portal for young talents to access global opportunities with
+  Singapore enterprises to experience diverse work cultures, build global
+  networks, and gain a competitive edge.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Global Ready Talent Programme
+      background: /images/SuccessStoriesBanner2.png
+      variant: center
+      backgroundColor: black
+      size: sm
+      alignment: right
+      button: Find out more
+      url: /global-ready-talent-programme/
+  - textcards:
+      title: Global Ready Talent Programme
+      id: textcards
+      cards:
+        - title: Good Company Report
+          description: Learn about fast-growing Singapore Enterprises and the
+            opportunities they offer
+          linktext: Click here
+          url: /good-company-report/
+        - title: Local internships
+          description: For future-ready students seeking internship opportunities in
+            Singapore
+          linktext: Learn more
+          url: /internships/local-internships/
+        - title: Overseas Internship
+          description: For global-minded students looking to explore internship
+            opportunities overseas
+          linktext: Start your journey here
+          url: /internships/overseas-internships/about-overseas-internships/
+  - infopic:
+      title: Testimonials
+      subtitle: Hear from your peers
+      id: infopic
+      description: Wonder what it's like living and working in Southeast Asia, China
+        and India? Here's where you can hear more from your peers.
+      button: Click here
+      url: /testimonials/
+      image: /images/Screenshot_2024_09_16_174649.png
+      alt: Image alt text
 ---
-

@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Logo.jpg
 links:
+  - title: Global Ready Talent Programme
+    collection: global-ready-talent-programme
+  - title: Internships
+    collection: internships
+  - title: Good Company Report
+    collection: good-company-report
+  - title: Testimonials
+    url: /testimonials/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Company Login
+    url: https://login.beglobalready.gov.sg/
