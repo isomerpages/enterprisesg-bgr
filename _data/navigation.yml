@@ -1,4 +1,4 @@
-logo: /images/Logo.jpg
+logo: /images/Logo_2.jpg
 links:
   - title: Global Ready Talent Programme
     collection: global-ready-talent-programme
@@ -10,5 +10,5 @@ links:
     url: /testimonials/
   - title: Contact Us
     url: /contact-us/
-  - title: Company Login
+  - title: Login
     url: https://login.beglobalready.gov.sg/
