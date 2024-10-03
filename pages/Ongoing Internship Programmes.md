@@ -27,18 +27,11 @@ more information and the full range of opportunities available.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Global Entrepreneurial Internship Programme (<a href="https://geip.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">GEIP</a>) <em>- Open to students from all polytechnics and autonomous universities</em>
+<p>Global Entrepreneurial Internship Programme (<a href="https://geip.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">GEIP</a>) <em>- Open to students from all polytechnics and autonomous universities</em>
 </p>
 </li>
 <li>
 <p>Course-based Overseas Internships</p>
-</li>
-</ul>
-<p><strong>Nanyang Polytechnic</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Overseas Internship Programme (<a href="https://mysbm.nyp.edu.sg/goglobal/web/Overseas-Internship-Programme-OITP" rel="noopener noreferrer nofollow" target="_blank">OITP</a>)</p>
 </li>
 </ul>
 <p><strong>Republic Polytechnic</strong>
