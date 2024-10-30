@@ -1,6 +1,6 @@
 title: Global Ready Talent Programme
 url: https://www.beglobalready.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/Logo_2.jpg
 colors:
   primary-color: "#d91218"
   secondary-color: "#fb433d"
@@ -55,7 +55,7 @@ staging: https://staging-lite.d3hhy0v7zac8zn.amplifyapp.com
 prod: https://master.d8cu29s1ycaje.amplifyapp.com
 facebook-pixel: ""
 resources_name: resource-room
-shareicon: /images/isomer-logo.svg
+shareicon: /images/Logo_2.jpg
 is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""

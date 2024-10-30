@@ -4,7 +4,7 @@ title: Global Ready Talent Programme
 description: A portal for young talents to access global opportunities with
   Singapore enterprises to experience diverse work cultures, build global
   networks, and gain a competitive edge.
-image: /images/isomer-logo.svg
+image: /images/Logo_2.jpg
 permalink: /
 notification: ""
 sections:
