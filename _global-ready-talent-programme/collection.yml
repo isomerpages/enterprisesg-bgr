@@ -2,5 +2,5 @@ collections:
   global-ready-talent-programme:
     output: true
     order:
-      - IHL contact list.md
       - About the programme.md
+      - IHL contact list.md
