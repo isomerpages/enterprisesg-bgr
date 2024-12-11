@@ -39,7 +39,7 @@ third_nav_title: Overseas Internships
 <p>Myanmar</p>
 <p>Philippines</p>
 <p>Thailand</p>
-<p>Vietnam</p>
+<p>Viet nam</p>
 </td>
 </tr>
 </tbody>
@@ -52,6 +52,7 @@ third_nav_title: Overseas Internships
 <summary><strong><u>Emerging Markets</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -67,12 +68,12 @@ third_nav_title: Overseas Internships
 <p>American Samoa</p>
 <p>Angola</p>
 <p>Anguilla</p>
-<p>Antigua</p>
+<p>Antigua and Barbuda</p>
 <p>Argentina</p>
 <p>Armenia</p>
 <p>Aruba</p>
 <p>Azerbaijan</p>
-<p>Bahamas</p>
+<p>Bahamas (the)</p>
 <p>Bahrain</p>
 <p>Bangladesh</p>
 <p>Barbados</p>
@@ -81,45 +82,47 @@ third_nav_title: Overseas Internships
 <p>Benin</p>
 <p>Bermuda</p>
 <p>Bhutan</p>
-<p>Bolivia</p>
+<p>Bolivia (Plurinational State of)</p>
 <p>Bosnia and Herzegovina</p>
 <p>Botswana</p>
 <p>Brazil</p>
+<p>Brunei Darussalam</p>
 <p>Bulgaria</p>
 <p>Burkina Faso</p>
 <p>Burundi</p>
 <p>Cameroon</p>
-<p>Cape Verde</p>
-<p>Cayman Islands</p>
-<p>Central African Republic</p>
+<p>Carbo Verde</p>
+<p>Cayman Islands (the)</p>
+<p>Central African Republic (the)</p>
 <p>Chad</p>
 <p>Chile</p>
 <p>Colombia</p>
-<p>Comoros</p>
-<p>Congo</p>
-<p>Congo, Dem Rep</p>
-<p>Cook Islands</p>
+<p>Comoros (the)</p>
+<p>Congo (the)</p>
+<p>Congo (the Democratic Republic of the)</p>
+<p>Cook Islands (the)</p>
 <p>Costa Rica</p>
-<p>Côte d’Ivoire</p>
+<p>Côte d'Ivoire</p>
 <p>Croatia</p>
 <p>Cuba</p>
 <p>Cyprus</p>
-<p>Czech Republic</p>
+<p>Czechia</p>
 <p>Djibouti</p>
 <p>Dominica</p>
-<p>Dominican Rep</p>
+<p>Dominican Republic (the)</p>
 <p>Ecuador</p>
 <p>Egypt</p>
 <p>El Salvador</p>
 <p>Equatorial Guinea</p>
 <p>Eritrea</p>
 <p>Estonia</p>
+<p>Eswatini</p>
 <p>Ethiopia</p>
 <p>Fiji</p>
+<p>Gabon</p>
+<p>Gambia (the)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gabon</p>
-<p>Gambia</p>
 <p>Georgia</p>
 <p>Ghana</p>
 <p>Grenada</p>
@@ -130,7 +133,7 @@ third_nav_title: Overseas Internships
 <p>Guyana Haiti</p>
 <p>Honduras</p>
 <p>Hungary</p>
-<p>Iran</p>
+<p>Iran (Islamic Republic of)</p>
 <p>Iraq</p>
 <p>Israel</p>
 <p>Jamaica</p>
@@ -141,23 +144,23 @@ third_nav_title: Overseas Internships
 <p>Kosovo</p>
 <p>Kuwait</p>
 <p>Kyrgyzstan</p>
+<p>Lao People's Democratic Republic (the)</p>
 <p>Latvia</p>
 <p>Lebanon</p>
 <p>Lesotho</p>
 <p>Liberia</p>
-<p>Libyan Arab Jamahiriya</p>
+<p>Libya</p>
 <p>Lithuania</p>
-<p>Macedonia</p>
 <p>Madagascar</p>
 <p>Malawi</p>
 <p>Maldives</p>
 <p>Mali</p>
-<p>Marshall Islands</p>
+<p>Marshall Islands (the)</p>
 <p>Mauritania</p>
 <p>Mauritius</p>
 <p>Mexico</p>
-<p>Micronesia</p>
-<p>Moldova</p>
+<p>Micronesia (Federated States of)</p>
+<p>Moldova (the Republic of)</p>
 <p>Mongolia</p>
 <p>Montenegro</p>
 <p>Montserrat</p>
@@ -166,29 +169,34 @@ third_nav_title: Overseas Internships
 <p>Namibia</p>
 <p>Nauru</p>
 <p>Nepal</p>
-<p>Netherlands Antilles</p>
+<p>Netherlands (Kingdom of the)</p>
 <p>Nicaragua</p>
-<p>Niger</p>
+<p>Niger (the)</p>
 <p>Nigeria</p>
 <p>Niue</p>
+<p>North Macedonia</p>
 <p>Oman</p>
 <p>Pakistan</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Palau</p>
-<p>Palestine</p>
+<p>Palestine, State of</p>
 <p>Panama</p>
 <p>Papua New Guinea</p>
 <p>Paraguay</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Peru</p>
+<p>Philippines (the)</p>
 <p>Poland</p>
 <p>Puerto Rico</p>
 <p>Qatar</p>
 <p>Romania</p>
-<p>Russia</p>
+<p>Russian Federation (the)</p>
 <p>Rwanda</p>
+<p>Saint Kitts and Nevis</p>
+<p>Saint Lucia</p>
+<p>Saint Vincent and the Grenadines</p>
 <p>Samoa</p>
-<p>São Tomé &amp; Príncipe</p>
+<p>Sao Tome and Principe</p>
 <p>Saudi Arabia</p>
 <p>Senegal</p>
 <p>Serbia</p>
@@ -196,38 +204,36 @@ third_nav_title: Overseas Internships
 <p>Sierra Leone</p>
 <p>Slovakia</p>
 <p>Slovenia</p>
-<p>Solomon Island</p>
+<p>Solomon Islands</p>
 <p>Somalia</p>
 <p>South Africa</p>
 <p>Sri Lanka</p>
-<p>St Kitts &amp; Nevis</p>
-<p>St Lucia</p>
-<p>St Vincent</p>
-<p>Sudan</p>
+<p>Sudan (the)</p>
 <p>South Sudan</p>
 <p>Suriname</p>
-<p>Swaziland</p>
-<p>Syria</p>
+<p>Syrian Arab Republic (the)</p>
+<p>Taiwan (Province of China)</p>
 <p>Tajikistan</p>
-<p>Tanzania</p>
+<p>Tanzania, the United Republic of</p>
+<p>Timor-Leste</p>
 <p>Togo</p>
-<p>Tokelau Islands</p>
+<p>Tokelau</p>
 <p>Tonga</p>
-<p>Trinidad &amp; Tobago</p>
+<p>Trinidad and Tobago</p>
 <p>Tunisia</p>
-<p>Turkey</p>
+<p>Türkiye</p>
 <p>Turkmenistan</p>
-<p>Turks &amp; Caicos Islands</p>
+<p>Turks and Caicos Islands (the)</p>
 <p>Tuvalu</p>
 <p>Uganda</p>
 <p>Ukraine</p>
-<p>United Arab Emirates</p>
+<p>United Arab Emirates (the)</p>
 <p>Uruguay</p>
 <p>Uzbekistan</p>
 <p>Vanuatu</p>
-<p>Venezuela</p>
-<p>Virgin Island (UK)</p>
-<p>Virgin Island (US)</p>
+<p>Venezuela (Bolivarian Republic of)</p>
+<p>Virgin Island (British)</p>
+<p>Virgin Island (U.S.)</p>
 <p>Yemen</p>
 <p>Zambia</p>
 <p>Zimbabwe</p>
