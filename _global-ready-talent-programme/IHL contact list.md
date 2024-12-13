@@ -4,7 +4,7 @@ permalink: /ihl-contact-list/
 variant: tiptap
 description: ""
 ---
-<p><strong>IHL Points of Contact for Internship Opportunity (GRT)</strong>
+<p><strong>Education Institution Points of Contact for Internship Opportunity (GRT)</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
