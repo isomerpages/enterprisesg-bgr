@@ -24,21 +24,21 @@ overseas allowance, students will receive:</p>
 </ul>
 <p>To qualify for the programme, you are to undertake physical overseas internships
 in eligible overseas markets with a focus on Southeast Asia, India and
-China Emerging markets are also supported. You may refer to the list full
+China. Emerging markets are also supported. You may refer to the list full
 list of eligible markets <a href="/internships/overseas-internships/eligible-markets/" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p>For more information you may speak to your respective Institutes of higher
-learning (IHLs) on your eligibility for funding support under the GRT Programme.</p>
+<p>For more information you may speak to your respective education Institution
+on your eligibility for funding support under the GRT Programme.</p>
 <p>As always, we encourage students to do their due diligence before embarking
 on internships.</p>
 <h4>Deliverables</h4>
 <p>A student who onboards the GRT Programme and interns overseas physically
 is expected to complete a mandatory internship feedback on the internship
 experience. The internship feedback form can be accessed via <a href="https://form.gov.sg/60a790d4b8a63000112cd90f" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>.</p>
-<p>Your respective IHLs may also require you to submit other deliverables.
-As such, be sure to check with your IHLs for the deliverables to be submitted
-as part of internship fulfilment.</p>
+<p>Your respective education institution may also require you to submit other
+deliverables. As such, be sure to check with your education institution
+for the deliverables to be submitted as part of internship fulfilment.</p>
 <h4>To Apply</h4>
-<p>Approach the career centre of your IHLs to find out the process to secure
-an internship.</p>
+<p>Approach the career centre of your education institution to find out the
+process to secure an internship.</p>
 <p></p>
 <p></p>

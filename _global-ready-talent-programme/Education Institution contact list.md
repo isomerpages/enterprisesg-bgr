@@ -1,10 +1,10 @@
 ---
-title: IHL contact list
-permalink: /ihl-contact-list/
+title: Education Institution contact list
+permalink: /education-institution-contact-list/
 variant: tiptap
 description: ""
 ---
-<p><strong>IHL Points of Contact for Internship Opportunity (GRT)</strong>
+<p><strong>Education Institution Points of Contact for Internship Opportunity (GRT)</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>

@@ -6,11 +6,11 @@ description: ""
 ---
 <h4>Local Internships in Singapore Enterprises</h4>
 <p>For local internships, EnterpriseSG, together with Trade Associations
-and Chambers (TACs) and Institutes of Higher Learning (IHLs), will facilitate
-internship placements in qualified Singapore Enterprises who have been
-carefully screened and evaluated by TACs to ensure a rewarding learning
-experience for you. You can obtain further details about ongoing programs
-by contacting your respective IHLs.</p>
+and Chambers (TACs) and Education Institution, will facilitate internship
+placements in qualified Singapore Enterprises who have been carefully screened
+and evaluated by TACs to ensure a rewarding learning experience for you.
+You can obtain further details about ongoing programs by contacting your
+respective IHLs.</p>
 <p>Under this programme, you will receive via the qualified Singapore company,
 a minimum monthly internship stipend of:</p>
 <ul data-tight="true" class="tight">
