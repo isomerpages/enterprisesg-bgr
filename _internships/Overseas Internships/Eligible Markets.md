@@ -39,7 +39,7 @@ third_nav_title: Overseas Internships
 <p>Myanmar</p>
 <p>Philippines</p>
 <p>Thailand</p>
-<p>Viet nam</p>
+<p>Viet Nam</p>
 </td>
 </tr>
 </tbody>
