@@ -154,7 +154,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SkillsFuture Office</strong>
+<p><strong>Office of Student Support</strong>
 </p>
 <p>Email: <a href="mailto:help-internship@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">help-internship@rp.edu.sg</a> &nbsp;</p>
 <p>T: (65) 6510 3000</p>
