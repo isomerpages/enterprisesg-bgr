@@ -2,6 +2,5 @@ collections:
   global-ready-talent-programme:
     output: true
     order:
-      - Test.md
       - About the programme.md
       - Education Institution contact list.md
