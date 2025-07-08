@@ -6,7 +6,10 @@ description: A portal for young talents to access global opportunities with
   networks, and gain a competitive edge.
 image: /images/Logo_2.jpg
 permalink: /
-notification: ""
+notification: This webpage is intended primarily for students' reference.
+  Companies interested in applying for the grant should visit EnterpriseSG's
+  Global Ready Talent Programme webpage @
+  https://go.gov.sg/globalreadytalentprogramme-companies
 sections:
   - hero:
       title: Global Ready Talent Programme
