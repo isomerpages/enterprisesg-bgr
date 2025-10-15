@@ -27,7 +27,7 @@ a minimum monthly internship stipend of:</p>
 <p>Note: Applications for the GRT local internships funding (i.e., internship
 stipend support) will close on 31 January 2026.</p>
 <p>All supported internships must start no later than 31 March 2026 and end
-no later than 30 March 2027.”</p>
+no later than 30 March 2027.</p>
 <h4>Deliverables</h4>
 <p>A student who interns in Singapore with a Singapore Enterprise applying
 for GRT Programme funding is expected to complete mandatory internship
