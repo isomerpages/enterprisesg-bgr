@@ -25,7 +25,7 @@ a minimum monthly internship stipend of:</p>
 </li>
 </ul>
 <p>Note: Applications for the GRT local internships funding (i.e., internship
-stipend support) will close on 31 January 2026.</p>
+stipend support) have closed on 31 January 2026.</p>
 <p>All supported internships must start no later than 31 March 2026 and end
 no later than 30 March 2027.</p>
 <h4>Deliverables</h4>
