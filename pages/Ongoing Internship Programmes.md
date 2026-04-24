@@ -145,7 +145,7 @@ Internship</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Youth Interns Exchange Scheme (<a href="https://www.yes.org.sg/" rel="noopener noreferrer nofollow" target="_blank">YES</a>)</p>
+<p>Youth Interns Exchange Scheme (<a href="https://yes.businesschina.org.sg/" rel="noopener noreferrer nofollow" target="_blank">YES</a>)</p>
 </li>
 </ul>
 </div>
