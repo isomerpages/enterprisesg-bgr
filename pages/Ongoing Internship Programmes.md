@@ -14,7 +14,7 @@ more information and the full range of opportunities available.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Overseas Industrial Attachment Programme (<a href="https://www.ite.edu.sg/who-we-are/global-partnerships/overseas-exposure" rel="noopener noreferrer nofollow" target="_blank">OIAP</a>)</p>
+<p>Overseas Industrial Attachment Programme (<a href="https://www.ite.edu.sg/current-full-time-students/life-at-ite/overseas-exposure/" rel="noopener noreferrer nofollow" target="_blank">OIAP</a>)</p>
 </li>
 </ul>
 </div>
@@ -65,7 +65,7 @@ more information and the full range of opportunities available.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.ntu.edu.sg/education/career-guidance-industry-collaborations/for-employers/hire-ntu-students-as-interns/overseas-internships" rel="noopener noreferrer nofollow" target="_blank">CAO</a> Overseas
+<p><a href="https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/financial-aid/overseas-student-programme-loan-travel-award/cao-overseas-internship-exposure" rel="noopener noreferrer nofollow" target="_blank">CAO</a> Overseas
 Internship</p>
 </li>
 <li>
